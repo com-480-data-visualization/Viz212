@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| | |
-| | |
-| | |
+| Rania Hatrouhou| 342084|
+| Leila Benjelloun| 326895|
+|Yassine Chami Khazraji |326806 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
