@@ -59,6 +59,7 @@ Before diving into the fun part, we cleaned and preprocessed our dataset:
 ##### 👥 **Who’s on the App?**  
 - The **average user age is 27**, with most users between **23-30 years old**.  
 - Gender is evenly distributed (**50% male, 50% female**).  
+![Age Distribution by Gender](gender_age_distribution.png)
 
 #### 🔥 **Interests & Hobbies: What’s Popular?**  
 - **Travel is the most common interest** (**62.9% of users**).  
@@ -71,6 +72,8 @@ Before diving into the fun part, we cleaned and preprocessed our dataset:
 - The **average user has swiped 50 times**.  
 - Some users barely swipe, while others **go over 100+ swipes** per session!  
 - There are **distinct engagement levels**, suggesting different usage patterns (casual vs. active users).  
+
+![Swiping Frequency Distribution](swiping_frequency.png)
 
 ### **What’s Next?**  
 With these insights, we’ll explore deeper **correlations** between interests, preferences, and swiping behavior. Are **travel lovers more likely to swipe right on fellow travelers**? Does **relationship intent influence swiping patterns**?  
