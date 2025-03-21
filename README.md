@@ -12,14 +12,7 @@
 
 ### Dataset
 
-We are using a structured dataset on **dating app users**, containing **500 entries** with details on **age, gender, height, interests, relationship goals, education level, occupation, swiping history, and frequency of app usage**.  
-
-#### **Data Quality & Preprocessing:**  
-- **Raw Data:** Includes categorical variables such as **gender, education level, and interests** stored as lists.  
-- **Preprocessing Steps:**
-  - **Interests were converted** into individual binary columns (e.g., cooking, hiking, music, reading).  
-  - **Categorical data was encoded** (e.g., gender: male=0, female=1; education: high school=HS, bachelor's=BSc).  
-  - **Minor missing values** exist in interest columns, requiring imputation or removal.  
+We are using a structured dataset on **dating app users**, containing **500 entries** with details on **age, gender, height, interests, relationship goals, education level, occupation, swiping history, and frequency of app usage**.   
 
 This dataset enables an in-depth analysis of **dating behavior, interests, and swiping activity**, revealing patterns in how different user demographics engage with the platform.
 
@@ -29,8 +22,8 @@ This dataset enables an in-depth analysis of **dating behavior, interests, and s
 Our visualization explores **behavioral patterns in dating app usage**, focusing on how different user attributes influence engagement and preferences. The **primary axes of analysis** include:  
 
 - **User Preferences**: How do different demographics (**age, gender, education level**) impact dating preferences and expectations?  
-- **Swiping Behavior**: What factors (**occupation, relationship goals, shared interests**) influence swiping history and match likelihood?  
-- **Interest Correlations**: Are users with **similar hobbies and interests** more likely to match and engage in conversations?  
+- **Swiping Behavior**: Do users looking for a serious relationship (Marriage, Long-term Relationship) swipe more or less than those looking for casual dating or friendship? 
+- **User Selectivity**: What demographic factors influence user selectivity in online dating apps?  
 - **App Usage Frequency**: Do certain user profiles (e.g., younger vs. older users) exhibit **distinct engagement patterns**, such as daily vs. occasional usage?  
 
 #### **Motivation**  
@@ -57,6 +50,7 @@ Before diving into the fun part, we cleaned and preprocessed our dataset:
 #### 📊 **The Dating App Landscape: Key Findings**  
 
 ##### 👥 **Who’s on the App?**  
+- Men are, on average, older than women on dating apps.
 - The **average user age is 27**, with most users between **23-30 years old**.  
 - Gender is evenly distributed (**50% male, 50% female**).  
 ![Age Distribution by Gender](gender_age_distribution.png)
