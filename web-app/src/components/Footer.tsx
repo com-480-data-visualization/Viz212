@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
 
         <div className="mt-8 pt-8 border-t border-gray-200">
           <p className="text-center text-gray-600">
-            © 2024 LoveLogic. All rights reserved.
+            © 2025 LoveLogic. All rights reserved.
           </p>
         </div>
       </div>

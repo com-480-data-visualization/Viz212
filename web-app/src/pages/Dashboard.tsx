@@ -1,69 +1,54 @@
-import React, { useState } from 'react';
-import { motion } from 'framer-motion';
+import React from 'react';
+import AgeDistribution from '../components/visualizations/AgeDistribution';
+import RelationshipGoals from '../components/visualizations/RelationshipGoals';
+import InterestCloud from '../components/visualizations/InterestCloud';
+import UsagePatterns from '../components/visualizations/UsagePatterns';
+import ProfileExplorer from '../components/visualizations/ProfileExplorer';
+import InterestNetwork from '../components/visualizations/InterestNetwork';
 
 const Dashboard: React.FC = () => {
-  const [activeSection, setActiveSection] = useState(0);
-
-  const sections = [
-    {
-      title: "How old are users?",
-      description: "Explore the age distribution of dating app users across different demographics.",
-      comingSoon: true
-    },
-    {
-      title: "What are people looking for?",
-      description: "Discover the most common relationship goals and how they vary by age and gender.",
-      comingSoon: true
-    },
-    {
-      title: "Top Hobbies & Interests",
-      description: "Explore the most popular interests and how they connect potential matches.",
-      comingSoon: true
-    },
-    {
-      title: "App Usage Patterns",
-      description: "Analyze how frequently different user groups engage with the app.",
-      comingSoon: true
-    }
-  ];
-
   return (
-    <div className="container mx-auto px-4 py-8">
-      {/* Header */}
-      <div className="text-center mb-12">
-        <h1 className="text-4xl font-bold text-gray-800 mb-4">
-          Who's on the App?
-        </h1>
-        <p className="text-xl text-gray-600">
-          Discover fascinating insights about dating app users through interactive visualizations
-        </p>
-      </div>
+    <div className="min-h-screen bg-gray-50 py-8">
+      <div className="container mx-auto px-4">
+        <h1 className="text-4xl font-bold text-gray-800 mb-8">Dating App Insights</h1>
+        
+        <div className="flex flex-col gap-8">
+          {/* Interactive Profile Explorer - Full Width */}
+          <div>
+            <ProfileExplorer />
+          </div>
 
-      {/* Sections Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {sections.map((section, index) => (
-          <motion.div
-            key={index}
-            className="bg-white rounded-xl shadow-lg overflow-hidden cursor-pointer transform transition-all duration-300 hover:shadow-xl"
-            whileHover={{ scale: 1.02 }}
-            whileTap={{ scale: 0.98 }}
-            onClick={() => setActiveSection(index)}
-          >
-            <div className="p-6">
-              <h3 className="text-2xl font-semibold text-gray-800 mb-3">
-                {section.title}
-              </h3>
-              <p className="text-gray-600 mb-4">
-                {section.description}
-              </p>
-              {section.comingSoon && (
-                <span className="inline-block bg-purple-100 text-purple-800 text-sm px-3 py-1 rounded-full">
-                  Coming Soon
-                </span>
-              )}
+          {/* Top Row */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            {/* Age Distribution - Left */}
+            <div className="flex flex-col">
+              <AgeDistribution />
             </div>
-          </motion.div>
-        ))}
+
+            {/* Interest Network - Right */}
+            <div className="flex flex-col">
+              <InterestNetwork />
+            </div>
+          </div>
+
+          {/* Middle Row */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            {/* App Usage Patterns - Left */}
+            <div className="flex flex-col h-full">
+              <UsagePatterns />
+            </div>
+
+            {/* Relationship Goals - Right */}
+            <div className="flex flex-col h-full">
+              <RelationshipGoals />
+            </div>
+          </div>
+
+          {/* Interest Cloud - Full Width */}
+          <div>
+            <InterestCloud />
+          </div>
+        </div>
       </div>
     </div>
   );

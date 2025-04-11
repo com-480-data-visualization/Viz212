@@ -1,0 +1,501 @@
+Age,Gender,Height,Looking For,Children,Education Level,Occupation,Swiping History,Frequency of Usage,cooking,hiking,movies,music,reading,sports,travel
+30,0,5.240384818289867,Casual Dating,0,HS,Student,96,Weekly,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+27,1,4.937625189981325,Friendship,1,MSc,Artist,96,Monthly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+29,1,5.806295844533026,Casual Dating,0,BSc,Social Media Influencer,64,Daily,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+29,1,5.101402346041159,Marriage,0,PhD,Doctor,67,Daily,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+32,0,5.986670327920848,Long-term Relationship,1,PhD,Engineer,93,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+25,1,5.192045043820928,Marriage,1,MSc,Engineer,38,Monthly,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+27,1,5.725125741058958,Marriage,0,MSc,Student,77,Monthly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+21,0,5.1082760743415285,Marriage,1,BSc,Teacher,87,Daily,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+33,1,5.364951099041565,Friendship,2,HS,Social Media Influencer,6,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+26,1,6.020815284576836,Long-term Relationship,0,PhD,Teacher,8,Weekly,1.0,0.0,0.0,1.0,1.0,0.0,0.0
+27,1,4.932742500348858,Friendship,2,MSc,Teacher,19,Weekly,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+20,1,5.752873347389619,Friendship,1,PhD,Business Owner,19,Monthly,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+33,1,5.563135850494532,Casual Dating,1,BSc,Teacher,12,Weekly,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+25,1,5.402888702854795,Friendship,1,HS,Entrepreneur,80,Monthly,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+20,0,5.511370950425028,Friendship,0,BSc,Student,81,Monthly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,1,5.866473532435496,Marriage,2,BSc,Artist,97,Monthly,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+27,0,6.011520446487662,Friendship,1,BSc,Engineer,12,Weekly,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+29,0,5.627683848284905,Marriage,0,MSc,Doctor,4,Daily,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+31,0,5.171047595192321,Long-term Relationship,1,MSc,Business Owner,32,Daily,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+24,1,5.206369247210565,Friendship,1,PhD,Entrepreneur,13,Daily,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,0,5.329140528954629,Friendship,2,BSc,Engineer,5,Weekly,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+27,1,5.430026156327804,Casual Dating,2,MSc,Doctor,61,Weekly,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+22,0,5.390113466452185,Friendship,0,BSc,Artist,55,Daily,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+31,1,5.30866811020693,Casual Dating,1,BSc,Social Media Influencer,98,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+24,1,6.028219579617898,Casual Dating,0,MSc,Entrepreneur,72,Monthly,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+29,1,5.647510204507609,Friendship,2,HS,Business Owner,98,Monthly,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+32,0,5.364351809292796,Casual Dating,2,MSc,Engineer,37,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+20,1,5.754320099268738,Marriage,2,HS,Doctor,52,Daily,1.0,0.0,0.0,0.0,1.0,1.0,0.0
+19,1,5.732664878338943,Long-term Relationship,1,PhD,Artist,14,Weekly,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+32,0,6.088162166352509,Casual Dating,1,BSc,Entrepreneur,23,Monthly,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+18,1,5.335882855091953,Long-term Relationship,2,PhD,Artist,29,Weekly,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+30,0,4.906158034428246,Casual Dating,1,PhD,Student,28,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+20,1,5.720755638783328,Friendship,0,MSc,Teacher,74,Monthly,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+21,0,5.098092419706831,Casual Dating,1,PhD,Entrepreneur,81,Weekly,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+25,0,5.671438558839379,Long-term Relationship,0,PhD,Student,31,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+19,0,5.408660629652182,Friendship,0,PhD,Business Owner,83,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+24,0,4.915416267526658,Casual Dating,1,MSc,Teacher,8,Monthly,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+26,1,5.965380153412889,Long-term Relationship,0,BSc,Entrepreneur,85,Weekly,0.0,1.0,0.0,1.0,1.0,1.0,0.0
+24,1,5.678084813207579,Casual Dating,1,PhD,Entrepreneur,52,Weekly,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+19,0,5.920743402023185,Friendship,2,HS,Social Media Influencer,12,Daily,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+24,1,5.238880597920358,Casual Dating,1,BSc,Social Media Influencer,88,Monthly,0.0,0.0,1.0,1.0,1.0,0.0,0.0
+35,0,5.900425428231701,Marriage,1,BSc,Artist,62,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+31,1,5.227422032665844,Friendship,1,HS,Artist,13,Weekly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+34,0,5.95906134562711,Marriage,0,MSc,Doctor,2,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+23,0,6.000881660993571,Friendship,1,HS,Engineer,43,Weekly,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+20,1,5.652509215982641,Long-term Relationship,0,BSc,Teacher,9,Daily,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+33,1,5.338095724935996,Marriage,2,HS,Student,92,Daily,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+30,0,5.280272161413801,Casual Dating,0,HS,Artist,49,Weekly,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+30,0,5.39718541504201,Casual Dating,0,HS,Student,82,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+26,1,5.955798431691355,Long-term Relationship,1,BSc,Doctor,83,Weekly,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+33,0,5.370472004934425,Long-term Relationship,1,BSc,Entrepreneur,79,Monthly,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+35,0,5.596232820187575,Long-term Relationship,0,HS,Doctor,26,Monthly,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+18,0,6.0897437596907,Friendship,2,PhD,Teacher,66,Monthly,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+27,0,5.63923316071156,Long-term Relationship,0,MSc,Engineer,25,Monthly,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+28,1,4.933521219792926,Marriage,1,HS,Artist,96,Daily,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+18,1,5.211941481893195,Casual Dating,2,MSc,Doctor,88,Daily,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+28,1,5.332273464857678,Friendship,0,HS,Entrepreneur,26,Daily,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+33,1,5.724147913769532,Friendship,1,PhD,Doctor,24,Daily,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+34,1,5.288793846543993,Casual Dating,1,PhD,Artist,11,Monthly,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+35,0,6.010121016898489,Long-term Relationship,2,HS,Entrepreneur,80,Monthly,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+34,0,5.487375508392343,Friendship,2,MSc,Business Owner,13,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30,1,5.143568341925464,Friendship,2,HS,Doctor,83,Daily,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+21,0,4.828775494672228,Long-term Relationship,0,PhD,Engineer,18,Weekly,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+25,1,5.481743173360596,Casual Dating,0,PhD,Business Owner,59,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,1,5.498101994384479,Marriage,2,PhD,Entrepreneur,100,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+32,1,6.091946191621808,Long-term Relationship,2,BSc,Doctor,21,Daily,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+33,0,5.787207187664832,Marriage,1,BSc,Engineer,64,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,1,5.875026150843842,Long-term Relationship,0,MSc,Doctor,40,Weekly,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+31,1,5.675738905050974,Friendship,2,BSc,Student,40,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+22,1,4.9861485463213535,Long-term Relationship,0,HS,Entrepreneur,83,Daily,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+30,0,6.010019898751484,Casual Dating,1,PhD,Entrepreneur,90,Weekly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+27,0,5.045984409166938,Friendship,2,MSc,Business Owner,77,Weekly,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+25,1,5.945594046489266,Long-term Relationship,2,BSc,Business Owner,43,Weekly,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+31,0,4.915831462311005,Friendship,0,MSc,Engineer,70,Daily,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+28,0,6.017204886810353,Long-term Relationship,0,BSc,Entrepreneur,95,Daily,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+32,1,4.821520923466465,Friendship,2,MSc,Business Owner,84,Weekly,1.0,1.0,0.0,0.0,1.0,1.0,0.0
+35,0,5.647848104854811,Long-term Relationship,1,HS,Doctor,8,Weekly,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+25,1,5.284758438205714,Casual Dating,2,PhD,Doctor,98,Daily,1.0,0.0,1.0,0.0,1.0,1.0,0.0
+23,0,5.315058504308027,Marriage,2,MSc,Student,80,Daily,0.0,1.0,0.0,1.0,1.0,1.0,1.0
+31,0,5.576484223790711,Marriage,2,BSc,Entrepreneur,69,Monthly,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+20,1,5.278267424924374,Friendship,1,PhD,Teacher,18,Weekly,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+34,0,5.182119518799928,Long-term Relationship,1,MSc,Entrepreneur,67,Monthly,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+23,0,5.765614765126895,Marriage,0,PhD,Entrepreneur,45,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+18,1,5.086925938950007,Marriage,0,BSc,Engineer,68,Daily,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+25,1,5.274114756058384,Marriage,1,BSc,Student,21,Monthly,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+25,0,5.873622342975061,Long-term Relationship,0,BSc,Business Owner,91,Monthly,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+25,0,5.306325799643069,Casual Dating,2,PhD,Teacher,23,Weekly,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+24,0,5.440640587836819,Friendship,1,MSc,Artist,47,Daily,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+23,0,5.118800048023164,Marriage,1,HS,Engineer,19,Weekly,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+25,1,5.404581791109265,Marriage,0,PhD,Student,0,Weekly,1.0,0.0,0.0,0.0,0.0,1.0,1.0
+24,1,5.966181867384575,Friendship,1,HS,Student,98,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+22,0,5.110225909668289,Marriage,2,PhD,Student,20,Weekly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,1,5.1323959537433055,Long-term Relationship,0,BSc,Engineer,62,Daily,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+24,1,4.849596585846308,Friendship,2,PhD,Student,81,Weekly,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+31,0,5.588251148792093,Long-term Relationship,2,BSc,Student,91,Daily,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+32,0,5.989481147254336,Long-term Relationship,1,HS,Social Media Influencer,97,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+29,0,5.079546903190221,Friendship,0,MSc,Artist,48,Daily,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+21,0,5.87590064153706,Marriage,2,PhD,Engineer,21,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+33,1,5.854466419958818,Casual Dating,0,BSc,Entrepreneur,97,Monthly,0.0,1.0,0.0,0.0,1.0,1.0,0.0
+21,1,5.671092132278706,Marriage,1,PhD,Teacher,52,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+35,0,5.059604715378536,Long-term Relationship,0,MSc,Social Media Influencer,20,Monthly,1.0,1.0,1.0,0.0,0.0,1.0,1.0
+32,0,4.893286395470057,Friendship,2,MSc,Entrepreneur,17,Daily,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+21,1,5.576603688537364,Casual Dating,0,HS,Artist,84,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+31,0,5.992274035446775,Casual Dating,1,HS,Teacher,82,Daily,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+27,0,4.9210422673068654,Casual Dating,0,MSc,Business Owner,64,Daily,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+22,1,5.456322761502873,Marriage,0,PhD,Social Media Influencer,100,Monthly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+29,0,5.818562322699719,Friendship,2,HS,Entrepreneur,82,Monthly,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+24,0,5.39312551524986,Friendship,2,HS,Artist,87,Monthly,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+19,0,4.832884726800248,Marriage,0,HS,Engineer,85,Daily,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+22,1,5.194927940774337,Casual Dating,1,MSc,Engineer,42,Weekly,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+22,1,5.489702856214108,Marriage,0,HS,Student,91,Daily,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+19,1,5.351056306389518,Marriage,2,BSc,Social Media Influencer,23,Monthly,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+25,0,5.908935827571413,Long-term Relationship,0,PhD,Social Media Influencer,86,Daily,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+30,1,5.785305232978693,Casual Dating,0,PhD,Doctor,36,Weekly,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+25,0,5.724978686627205,Long-term Relationship,2,PhD,Student,99,Weekly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+28,1,4.948478625218401,Long-term Relationship,1,BSc,Doctor,90,Daily,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+23,1,5.760777552727312,Casual Dating,0,MSc,Social Media Influencer,71,Monthly,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+22,1,5.439634253766098,Marriage,2,MSc,Entrepreneur,75,Weekly,1.0,0.0,1.0,1.0,1.0,0.0,0.0
+32,0,5.711927418249435,Long-term Relationship,1,MSc,Social Media Influencer,13,Weekly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+24,0,5.37909694826297,Long-term Relationship,1,HS,Doctor,63,Daily,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+22,1,5.27477813659427,Casual Dating,0,BSc,Entrepreneur,39,Daily,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+26,0,5.690220676879612,Marriage,0,PhD,Engineer,50,Monthly,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+29,0,4.961811122603363,Long-term Relationship,0,BSc,Social Media Influencer,77,Daily,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+24,0,5.581404551695822,Long-term Relationship,2,PhD,Student,25,Daily,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+26,1,6.029058682201397,Marriage,0,MSc,Social Media Influencer,4,Daily,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+22,1,5.835524648268973,Marriage,2,HS,Teacher,29,Monthly,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+30,1,5.9810082127353885,Marriage,2,BSc,Business Owner,26,Weekly,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+26,1,4.918994437807686,Marriage,0,PhD,Student,75,Monthly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+32,0,5.203101160708838,Long-term Relationship,0,MSc,Engineer,28,Weekly,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+32,0,5.045238480212873,Long-term Relationship,0,PhD,Artist,100,Daily,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+29,0,5.788865011301586,Friendship,2,BSc,Artist,42,Weekly,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+25,1,4.87036799279614,Casual Dating,2,PhD,Student,27,Daily,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+26,0,4.974412160901463,Marriage,0,PhD,Teacher,55,Monthly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+34,1,4.84755592205849,Marriage,2,BSc,Business Owner,33,Monthly,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+35,0,5.07022664669497,Friendship,2,MSc,Doctor,80,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+33,1,4.824931355543041,Long-term Relationship,1,HS,Engineer,69,Daily,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+25,1,5.634603463653517,Long-term Relationship,2,MSc,Doctor,98,Weekly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,1,5.602284035875118,Long-term Relationship,2,MSc,Business Owner,78,Weekly,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+28,1,5.419478223890362,Casual Dating,0,BSc,Social Media Influencer,3,Weekly,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+20,0,4.948687757120847,Casual Dating,2,BSc,Entrepreneur,20,Monthly,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+32,0,5.939907209537825,Long-term Relationship,1,PhD,Student,55,Daily,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+27,1,5.491959921929868,Marriage,1,PhD,Artist,5,Daily,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+33,0,5.969105878320783,Casual Dating,1,BSc,Student,31,Weekly,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+32,0,6.035192829097504,Long-term Relationship,0,BSc,Business Owner,87,Daily,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+32,1,5.695097121543555,Long-term Relationship,1,MSc,Artist,49,Monthly,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+24,0,5.900181697140749,Long-term Relationship,2,MSc,Entrepreneur,97,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,0,5.913154590141187,Friendship,0,BSc,Business Owner,66,Daily,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+21,1,4.997129458458726,Friendship,0,MSc,Social Media Influencer,47,Weekly,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+25,1,4.936878073682302,Long-term Relationship,1,HS,Doctor,87,Daily,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+31,1,5.517650141699458,Long-term Relationship,1,PhD,Artist,91,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+19,1,6.026655003868983,Friendship,2,MSc,Teacher,65,Weekly,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+18,0,4.969361111258484,Casual Dating,2,MSc,Engineer,90,Weekly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,0,6.016852765939112,Marriage,0,BSc,Artist,66,Monthly,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+34,0,5.429590843917845,Long-term Relationship,2,MSc,Social Media Influencer,92,Daily,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+33,1,5.170362689383212,Casual Dating,2,HS,Artist,54,Weekly,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+33,1,4.825390642993108,Long-term Relationship,0,HS,Artist,62,Daily,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+25,0,6.044497033372401,Long-term Relationship,1,BSc,Student,1,Daily,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+21,1,6.071489189277642,Long-term Relationship,1,HS,Business Owner,78,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+21,0,5.97251293846924,Friendship,1,HS,Entrepreneur,42,Daily,0.0,1.0,0.0,1.0,1.0,1.0,1.0
+29,1,6.062014427379368,Casual Dating,1,BSc,Doctor,74,Daily,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+27,0,5.734964561413985,Casual Dating,1,MSc,Business Owner,56,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+32,0,5.8959554815979445,Marriage,2,MSc,Entrepreneur,85,Daily,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+20,1,5.536534872948992,Friendship,2,HS,Doctor,25,Monthly,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+27,1,5.594635332586019,Friendship,1,BSc,Artist,45,Daily,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+30,0,5.934433089335576,Marriage,1,HS,Entrepreneur,39,Monthly,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+23,0,6.00088674525844,Long-term Relationship,2,PhD,Doctor,47,Weekly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+28,1,6.036337320283338,Long-term Relationship,1,MSc,Artist,74,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+20,1,5.205239520495352,Casual Dating,0,HS,Social Media Influencer,58,Daily,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+18,1,5.999321282949007,Marriage,2,PhD,Engineer,91,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+18,1,5.044729223570743,Friendship,1,MSc,Artist,12,Daily,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+24,0,5.984331188593943,Long-term Relationship,2,PhD,Engineer,66,Daily,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+22,0,5.090359398313469,Friendship,1,BSc,Business Owner,7,Weekly,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+22,1,5.563129063653523,Long-term Relationship,1,MSc,Student,26,Monthly,1.0,1.0,0.0,1.0,0.0,1.0,0.0
+21,0,5.83348042992615,Marriage,0,MSc,Entrepreneur,33,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+25,1,5.230155178591923,Casual Dating,1,BSc,Artist,58,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+26,1,5.461762948299695,Friendship,0,MSc,Artist,43,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+26,1,5.304072430273165,Long-term Relationship,1,HS,Doctor,13,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+28,1,5.602235496358825,Casual Dating,2,HS,Social Media Influencer,89,Weekly,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+32,0,4.932971095889953,Long-term Relationship,0,HS,Entrepreneur,1,Daily,1.0,0.0,0.0,1.0,0.0,0.0,1.0
+31,0,5.910313085577794,Casual Dating,2,BSc,Teacher,84,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+25,0,5.956136949479735,Casual Dating,2,PhD,Entrepreneur,34,Monthly,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+30,1,5.209967346853675,Marriage,1,HS,Student,24,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+23,1,5.307234389771249,Casual Dating,1,HS,Teacher,31,Daily,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+32,1,5.435011889559503,Marriage,1,HS,Artist,78,Monthly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+35,0,5.547673802083528,Casual Dating,0,BSc,Engineer,40,Daily,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+27,1,5.153931404643159,Casual Dating,2,BSc,Engineer,83,Monthly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+30,0,5.552414680221733,Long-term Relationship,0,PhD,Entrepreneur,33,Daily,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+29,0,5.781458502280014,Casual Dating,0,PhD,Student,28,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,0,5.399002094196247,Marriage,0,MSc,Social Media Influencer,96,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+26,0,5.315490467378796,Casual Dating,0,MSc,Engineer,17,Monthly,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+21,1,5.964925173676047,Long-term Relationship,0,PhD,Artist,23,Weekly,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+29,0,4.861214966562685,Friendship,0,PhD,Engineer,8,Monthly,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+24,1,5.757162264325183,Long-term Relationship,0,BSc,Teacher,5,Daily,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+30,1,5.175375354701226,Marriage,2,MSc,Entrepreneur,24,Weekly,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+31,0,5.878424440580842,Casual Dating,2,HS,Engineer,5,Weekly,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+31,0,5.918040614214112,Casual Dating,0,MSc,Doctor,67,Monthly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+23,1,4.988480673697198,Long-term Relationship,1,BSc,Engineer,52,Daily,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+31,1,4.925777565272401,Friendship,0,HS,Business Owner,10,Monthly,0.0,1.0,0.0,1.0,1.0,1.0,1.0
+26,0,4.925401318213908,Friendship,1,MSc,Student,86,Daily,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+28,1,5.927838460520351,Casual Dating,0,BSc,Entrepreneur,74,Monthly,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+33,0,5.653778605048816,Casual Dating,1,BSc,Business Owner,30,Weekly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+23,1,5.388590378765114,Friendship,2,PhD,Business Owner,37,Daily,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+34,1,5.157305209442495,Marriage,2,PhD,Doctor,52,Weekly,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+34,1,5.896001768936665,Friendship,0,MSc,Doctor,59,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+22,1,5.778640690673869,Marriage,0,MSc,Teacher,40,Daily,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+29,0,5.483801990659038,Casual Dating,2,MSc,Teacher,82,Weekly,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+35,1,5.575411051471905,Long-term Relationship,1,HS,Artist,5,Daily,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+34,0,5.117566673566487,Friendship,1,MSc,Social Media Influencer,41,Weekly,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+19,1,5.020205696732368,Long-term Relationship,2,MSc,Engineer,88,Monthly,0.0,0.0,1.0,1.0,0.0,1.0,0.0
+24,0,4.8954302879747855,Long-term Relationship,0,MSc,Doctor,81,Monthly,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+28,0,4.991185378443436,Casual Dating,0,BSc,Entrepreneur,56,Monthly,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+25,1,4.995193123571273,Marriage,1,BSc,Doctor,21,Monthly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+26,1,5.888419309362208,Long-term Relationship,1,HS,Engineer,12,Weekly,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+32,0,5.892688914012521,Casual Dating,1,BSc,Artist,38,Monthly,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+20,0,5.173087241628267,Long-term Relationship,2,PhD,Engineer,43,Weekly,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+32,0,6.022524796259061,Long-term Relationship,1,HS,Entrepreneur,9,Weekly,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+22,1,5.428566144064488,Casual Dating,0,MSc,Student,36,Weekly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,1,5.071763493200341,Casual Dating,1,BSc,Business Owner,83,Weekly,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+23,1,4.840057717990036,Casual Dating,0,PhD,Business Owner,23,Monthly,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+25,1,5.379642950334183,Friendship,0,BSc,Entrepreneur,72,Daily,1.0,1.0,0.0,1.0,1.0,0.0,0.0
+34,0,5.428406051704056,Casual Dating,2,BSc,Artist,43,Monthly,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+31,1,5.526686396764992,Casual Dating,0,PhD,Entrepreneur,38,Monthly,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+35,1,5.359643123643837,Long-term Relationship,0,PhD,Teacher,95,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+24,0,5.286644907738784,Friendship,0,PhD,Engineer,20,Daily,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+33,0,5.710349950672095,Marriage,1,PhD,Student,53,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+31,0,5.693267154963841,Casual Dating,0,BSc,Artist,83,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+33,1,5.537310038207485,Marriage,0,HS,Doctor,18,Monthly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+23,1,6.088496819830294,Long-term Relationship,1,MSc,Doctor,27,Weekly,1.0,1.0,0.0,0.0,1.0,0.0,1.0
+23,0,5.536646677864888,Marriage,0,BSc,Entrepreneur,63,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+20,0,4.956077483335585,Long-term Relationship,2,BSc,Business Owner,58,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+35,0,5.669976810326429,Friendship,2,HS,Entrepreneur,46,Weekly,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+27,1,5.449691347005849,Casual Dating,1,BSc,Business Owner,48,Weekly,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+34,0,5.82479141852491,Casual Dating,2,MSc,Artist,55,Weekly,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+28,0,5.805759131719838,Casual Dating,1,PhD,Business Owner,51,Weekly,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+20,1,5.592903652720565,Marriage,0,MSc,Teacher,77,Monthly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+24,1,5.996961000161297,Marriage,1,PhD,Engineer,91,Weekly,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+31,0,5.483870064661875,Friendship,2,BSc,Doctor,100,Weekly,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+19,0,5.767917924732163,Long-term Relationship,0,HS,Teacher,19,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+31,0,6.079904608220203,Marriage,2,BSc,Doctor,26,Daily,0.0,0.0,1.0,1.0,1.0,0.0,1.0
+27,1,4.939965996278096,Casual Dating,1,BSc,Business Owner,77,Weekly,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+21,1,5.243419849283408,Friendship,1,HS,Artist,80,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+35,0,6.004320592491307,Long-term Relationship,0,MSc,Engineer,56,Weekly,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+27,1,6.060979936375505,Casual Dating,2,HS,Student,2,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+31,0,5.956791073971224,Marriage,1,HS,Business Owner,40,Monthly,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+23,1,5.266163951466923,Casual Dating,1,BSc,Artist,85,Monthly,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+23,1,4.822784639291011,Long-term Relationship,2,HS,Doctor,38,Daily,1.0,1.0,0.0,0.0,1.0,1.0,0.0
+27,0,5.933244392836191,Long-term Relationship,2,HS,Student,21,Daily,1.0,0.0,1.0,1.0,1.0,0.0,1.0
+23,1,4.980607981601702,Long-term Relationship,1,PhD,Entrepreneur,30,Monthly,1.0,0.0,0.0,1.0,1.0,0.0,1.0
+34,1,5.242814351495456,Casual Dating,2,PhD,Teacher,39,Daily,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+25,1,5.69772639271172,Casual Dating,2,HS,Student,50,Weekly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+21,0,6.0625498661941775,Marriage,0,BSc,Business Owner,66,Daily,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+34,0,5.077338822733514,Long-term Relationship,0,MSc,Artist,42,Daily,0.0,1.0,1.0,0.0,0.0,1.0,1.0
+21,0,5.079396047468647,Casual Dating,1,BSc,Business Owner,96,Daily,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+25,0,6.05604373099327,Long-term Relationship,2,BSc,Teacher,60,Daily,1.0,1.0,0.0,1.0,0.0,0.0,1.0
+27,1,5.042910214813085,Long-term Relationship,2,PhD,Business Owner,2,Monthly,0.0,0.0,0.0,1.0,1.0,1.0,0.0
+26,0,5.60811537908293,Friendship,2,PhD,Artist,72,Weekly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+22,1,4.943380425672277,Long-term Relationship,0,BSc,Engineer,1,Monthly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+29,0,5.663725560582798,Marriage,1,BSc,Social Media Influencer,18,Monthly,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+28,0,5.258613652063652,Casual Dating,0,HS,Doctor,23,Weekly,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+23,0,5.093497783628393,Casual Dating,1,MSc,Artist,10,Daily,0.0,1.0,0.0,1.0,1.0,1.0,0.0
+32,1,5.211934830656955,Long-term Relationship,0,BSc,Engineer,53,Weekly,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+33,0,5.999573314269892,Friendship,1,BSc,Entrepreneur,4,Weekly,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+22,0,5.340266375490216,Casual Dating,2,MSc,Teacher,24,Daily,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+32,1,5.416847606781668,Long-term Relationship,1,BSc,Teacher,31,Monthly,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+19,1,5.730608516779474,Friendship,2,PhD,Doctor,21,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+24,0,5.124974855452152,Casual Dating,0,BSc,Doctor,81,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+21,0,5.080547843572088,Friendship,1,PhD,Artist,1,Daily,0.0,1.0,0.0,0.0,1.0,1.0,1.0
+24,0,5.135093360943551,Friendship,1,PhD,Student,65,Weekly,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+34,1,5.5247806285789,Marriage,1,BSc,Business Owner,76,Weekly,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+21,0,5.330753042308881,Casual Dating,2,MSc,Entrepreneur,67,Monthly,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+19,1,4.982481288587967,Casual Dating,0,HS,Teacher,19,Weekly,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+33,1,5.605071979694682,Casual Dating,2,BSc,Teacher,3,Daily,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+18,1,5.773902413732917,Casual Dating,1,MSc,Teacher,37,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,0,5.405508529328431,Friendship,0,BSc,Doctor,96,Weekly,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+26,0,5.092091100722029,Friendship,0,BSc,Entrepreneur,81,Weekly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+24,1,5.39795175276221,Casual Dating,1,MSc,Social Media Influencer,98,Monthly,1.0,0.0,1.0,1.0,0.0,1.0,1.0
+22,0,5.51458796274624,Long-term Relationship,1,PhD,Engineer,33,Daily,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+22,0,5.122042586608859,Friendship,1,PhD,Teacher,10,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+24,0,5.16222720866045,Marriage,1,MSc,Business Owner,52,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,0,5.022336945356445,Friendship,2,BSc,Student,29,Monthly,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+26,1,5.915703250186208,Casual Dating,2,BSc,Social Media Influencer,82,Weekly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+20,0,5.121627461753856,Friendship,1,BSc,Engineer,25,Weekly,1.0,0.0,1.0,1.0,1.0,0.0,1.0
+29,0,4.820979090770598,Marriage,2,HS,Artist,95,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30,0,6.008917607758939,Long-term Relationship,2,BSc,Business Owner,55,Weekly,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+21,0,5.805488557387173,Casual Dating,2,HS,Entrepreneur,78,Monthly,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+24,1,4.856047888675416,Marriage,2,PhD,Social Media Influencer,10,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+34,1,5.670120248420378,Friendship,1,PhD,Social Media Influencer,98,Daily,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+35,0,6.027808208847278,Casual Dating,1,PhD,Entrepreneur,88,Daily,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+31,0,5.716181609825833,Casual Dating,2,MSc,Social Media Influencer,61,Weekly,0.0,1.0,1.0,1.0,0.0,1.0,1.0
+29,1,6.059507278605977,Marriage,0,PhD,Teacher,40,Weekly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+22,1,5.250842814873771,Long-term Relationship,2,PhD,Teacher,89,Weekly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+19,0,4.814276847052938,Long-term Relationship,1,MSc,Social Media Influencer,79,Daily,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+21,1,5.321483793948396,Casual Dating,2,HS,Business Owner,72,Daily,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+33,1,4.961832935666355,Long-term Relationship,0,BSc,Social Media Influencer,40,Daily,1.0,1.0,1.0,0.0,1.0,1.0,0.0
+34,1,4.884098148783071,Long-term Relationship,0,HS,Student,32,Weekly,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+34,0,5.860086517797081,Long-term Relationship,2,BSc,Student,90,Daily,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+28,0,5.444011899689306,Friendship,0,PhD,Social Media Influencer,82,Daily,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+27,0,5.123087942145297,Casual Dating,2,PhD,Social Media Influencer,22,Weekly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+20,1,5.7704236998649225,Long-term Relationship,2,MSc,Doctor,67,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,1,5.199828586296504,Friendship,1,HS,Engineer,73,Daily,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+34,0,5.698671292049181,Friendship,0,HS,Doctor,100,Daily,1.0,0.0,1.0,1.0,0.0,0.0,0.0
+30,1,5.750677678308125,Casual Dating,1,HS,Doctor,31,Daily,1.0,1.0,1.0,1.0,0.0,0.0,0.0
+28,0,5.486238849495634,Friendship,1,HS,Doctor,44,Weekly,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+23,0,5.194441122148628,Friendship,0,BSc,Student,41,Weekly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+24,0,5.391177304853223,Long-term Relationship,0,MSc,Student,41,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+28,1,5.658286612171421,Marriage,1,MSc,Artist,66,Daily,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+21,0,5.637669872870124,Long-term Relationship,0,MSc,Artist,8,Daily,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+26,0,5.85696960711125,Casual Dating,0,MSc,Teacher,41,Monthly,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+26,1,5.903958589415616,Long-term Relationship,2,HS,Business Owner,59,Weekly,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+35,1,5.109899345151931,Long-term Relationship,2,BSc,Engineer,89,Weekly,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+24,1,5.555548923090633,Friendship,1,MSc,Engineer,90,Daily,1.0,1.0,0.0,1.0,1.0,0.0,1.0
+32,0,6.084900007474294,Casual Dating,1,BSc,Entrepreneur,40,Monthly,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+20,0,5.352470025359152,Friendship,0,MSc,Doctor,22,Monthly,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+33,1,5.366572765677472,Friendship,1,HS,Business Owner,26,Weekly,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+21,0,5.71536321378859,Long-term Relationship,0,MSc,Doctor,66,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+32,1,5.620802824155517,Friendship,1,MSc,Business Owner,47,Monthly,1.0,0.0,0.0,0.0,0.0,0.0,1.0
+27,1,5.762046926815652,Marriage,2,MSc,Business Owner,75,Monthly,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+26,0,4.865860265159927,Casual Dating,1,BSc,Doctor,19,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+24,1,5.119151669054904,Marriage,2,HS,Teacher,21,Monthly,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+19,1,4.959943328578248,Friendship,1,PhD,Entrepreneur,82,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+20,0,5.63322237857416,Casual Dating,1,MSc,Teacher,90,Monthly,1.0,1.0,0.0,1.0,0.0,1.0,1.0
+20,1,5.954095644810369,Friendship,2,MSc,Student,28,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30,0,4.947813538984843,Marriage,0,BSc,Student,57,Weekly,0.0,0.0,0.0,1.0,0.0,1.0,0.0
+25,1,5.036950362189783,Marriage,1,HS,Teacher,86,Daily,1.0,0.0,0.0,0.0,1.0,0.0,0.0
+31,1,5.393025548205625,Casual Dating,0,PhD,Business Owner,46,Weekly,1.0,1.0,0.0,0.0,1.0,1.0,1.0
+21,0,5.460407667246343,Long-term Relationship,0,BSc,Social Media Influencer,26,Monthly,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+32,1,4.918010005678624,Friendship,0,BSc,Engineer,22,Monthly,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+18,1,6.088088386950403,Friendship,1,PhD,Artist,8,Daily,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+31,0,5.3377283754872265,Marriage,2,BSc,Teacher,35,Monthly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+19,1,5.563989223536064,Friendship,1,PhD,Artist,17,Monthly,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+26,0,5.28695251999069,Friendship,1,MSc,Artist,53,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+28,1,5.129517339039074,Long-term Relationship,0,HS,Entrepreneur,58,Weekly,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+32,1,5.901120532887778,Marriage,2,BSc,Business Owner,53,Daily,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+33,0,5.071891523822727,Casual Dating,0,HS,Social Media Influencer,70,Weekly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,0,5.301561244547253,Marriage,1,PhD,Student,81,Weekly,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+34,1,5.220555376954694,Friendship,1,PhD,Entrepreneur,81,Daily,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+34,1,5.318382806400905,Marriage,1,PhD,Entrepreneur,61,Daily,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+19,0,5.336495574009001,Casual Dating,0,BSc,Doctor,0,Monthly,0.0,1.0,1.0,0.0,0.0,1.0,1.0
+18,0,5.775163162647947,Friendship,2,PhD,Student,86,Daily,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+28,1,4.930011379610073,Casual Dating,0,MSc,Teacher,27,Daily,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+31,1,4.882197496056552,Marriage,2,PhD,Entrepreneur,85,Weekly,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+25,0,5.910725978018153,Marriage,0,HS,Engineer,64,Monthly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+19,0,5.986398863059888,Casual Dating,0,BSc,Business Owner,56,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+18,1,5.7990225681555785,Marriage,1,PhD,Student,100,Weekly,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+30,0,5.038961497733847,Casual Dating,1,HS,Entrepreneur,2,Daily,0.0,1.0,1.0,0.0,1.0,0.0,1.0
+25,0,5.1134457573622,Friendship,1,HS,Engineer,3,Daily,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+26,1,4.884820555365342,Long-term Relationship,0,PhD,Teacher,47,Daily,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+34,0,5.162213388360533,Friendship,0,MSc,Engineer,9,Monthly,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+29,1,5.477402985728282,Casual Dating,2,HS,Teacher,15,Daily,0.0,1.0,0.0,1.0,1.0,0.0,0.0
+23,0,5.724484190703827,Friendship,2,PhD,Student,100,Monthly,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+27,1,4.8357114815735285,Marriage,2,MSc,Engineer,31,Monthly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+33,0,5.116988741845175,Friendship,1,HS,Business Owner,18,Weekly,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+19,0,4.98639838300983,Marriage,2,BSc,Student,0,Daily,0.0,1.0,1.0,0.0,1.0,0.0,0.0
+35,0,4.943921999273743,Marriage,2,HS,Teacher,76,Monthly,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+33,1,5.833852818413206,Marriage,1,PhD,Teacher,67,Monthly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+18,0,4.807386362642154,Long-term Relationship,1,MSc,Business Owner,36,Daily,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+19,1,5.273085759854821,Friendship,0,BSc,Entrepreneur,59,Daily,1.0,0.0,0.0,0.0,1.0,0.0,1.0
+25,0,5.571340947419721,Friendship,1,HS,Business Owner,98,Weekly,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+23,1,5.150213099051647,Long-term Relationship,2,BSc,Student,48,Weekly,1.0,1.0,0.0,1.0,1.0,1.0,0.0
+25,1,4.901019235401741,Long-term Relationship,0,HS,Teacher,68,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+32,1,5.636054776813026,Friendship,1,BSc,Social Media Influencer,25,Weekly,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+26,1,6.074940640183215,Long-term Relationship,0,HS,Artist,47,Daily,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+31,1,5.256868020962532,Friendship,1,HS,Social Media Influencer,64,Daily,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+35,1,5.948386656666679,Long-term Relationship,0,PhD,Entrepreneur,23,Monthly,1.0,1.0,1.0,0.0,1.0,0.0,1.0
+35,0,4.852049087653746,Marriage,2,BSc,Teacher,11,Weekly,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+29,1,4.995185360554316,Long-term Relationship,0,MSc,Business Owner,19,Monthly,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+32,1,5.879703074331394,Casual Dating,0,BSc,Social Media Influencer,17,Daily,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+26,1,5.220768510699712,Friendship,0,PhD,Teacher,10,Monthly,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+34,1,5.568867346282476,Long-term Relationship,2,BSc,Social Media Influencer,44,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+18,0,5.964180263343535,Long-term Relationship,1,BSc,Student,86,Monthly,0.0,1.0,1.0,0.0,1.0,0.0,1.0
+35,1,5.226599408239342,Friendship,2,MSc,Artist,32,Daily,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+33,0,5.75379065493842,Marriage,1,MSc,Entrepreneur,69,Monthly,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+21,0,5.674439366299826,Marriage,1,PhD,Teacher,97,Monthly,0.0,0.0,1.0,0.0,1.0,1.0,0.0
+23,1,5.72445614522019,Long-term Relationship,2,BSc,Student,89,Monthly,1.0,1.0,0.0,0.0,1.0,0.0,0.0
+20,1,4.981679039746016,Casual Dating,1,PhD,Artist,58,Monthly,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+25,0,5.876485839975889,Friendship,1,HS,Business Owner,38,Monthly,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+26,0,5.9374790673548015,Friendship,2,MSc,Artist,99,Weekly,0.0,0.0,1.0,1.0,0.0,1.0,1.0
+32,1,5.356267659846884,Long-term Relationship,2,MSc,Engineer,97,Daily,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+23,0,5.295849431377151,Casual Dating,2,PhD,Social Media Influencer,50,Weekly,1.0,0.0,0.0,1.0,0.0,1.0,0.0
+22,0,5.158546759541486,Marriage,0,HS,Entrepreneur,18,Daily,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+34,0,5.506649190736336,Long-term Relationship,0,BSc,Business Owner,74,Weekly,1.0,1.0,1.0,0.0,0.0,0.0,1.0
+31,1,5.827281925235032,Long-term Relationship,2,MSc,Social Media Influencer,69,Monthly,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+28,0,6.020036731726036,Friendship,1,HS,Business Owner,84,Monthly,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+34,1,5.81458908611548,Casual Dating,2,PhD,Artist,22,Daily,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+32,1,5.396885032705019,Friendship,1,PhD,Engineer,59,Weekly,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+30,1,5.927460775076671,Long-term Relationship,0,HS,Artist,47,Monthly,0.0,0.0,0.0,1.0,1.0,1.0,1.0
+23,1,5.876620998204704,Marriage,1,HS,Student,51,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+18,0,4.907468265702903,Casual Dating,0,MSc,Student,38,Monthly,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+33,0,5.955841564717981,Casual Dating,2,MSc,Business Owner,10,Weekly,1.0,1.0,0.0,1.0,1.0,1.0,0.0
+23,0,4.894704938284262,Marriage,0,MSc,Student,59,Weekly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+27,1,5.669972936244074,Friendship,0,BSc,Social Media Influencer,64,Daily,0.0,1.0,0.0,1.0,0.0,1.0,1.0
+33,1,5.155795689679684,Long-term Relationship,1,MSc,Teacher,63,Monthly,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+34,0,5.5207426200503615,Long-term Relationship,1,BSc,Social Media Influencer,29,Daily,0.0,1.0,0.0,1.0,1.0,1.0,1.0
+19,0,5.595356362887191,Casual Dating,0,HS,Artist,8,Weekly,1.0,0.0,1.0,0.0,1.0,1.0,1.0
+31,0,5.057955617472578,Marriage,0,HS,Doctor,31,Monthly,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+24,0,5.539935244269399,Marriage,1,PhD,Social Media Influencer,45,Daily,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+32,1,5.43622465467514,Casual Dating,2,MSc,Student,11,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+18,0,5.147421880850754,Casual Dating,1,MSc,Social Media Influencer,52,Daily,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+28,0,5.329771249216676,Casual Dating,2,MSc,Doctor,68,Weekly,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+24,1,6.050624406930307,Casual Dating,2,HS,Social Media Influencer,48,Weekly,0.0,1.0,1.0,1.0,1.0,1.0,0.0
+29,1,5.022331808365045,Casual Dating,1,HS,Artist,38,Daily,1.0,0.0,1.0,0.0,1.0,0.0,1.0
+30,1,5.968499704416064,Marriage,2,BSc,Social Media Influencer,8,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+34,0,5.002235402179177,Casual Dating,1,MSc,Student,23,Weekly,0.0,1.0,0.0,1.0,1.0,0.0,1.0
+30,0,5.142763427940999,Marriage,0,BSc,Engineer,76,Daily,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,1,6.084591008886193,Marriage,0,MSc,Social Media Influencer,47,Monthly,1.0,1.0,0.0,1.0,1.0,1.0,0.0
+29,0,5.41650356164774,Casual Dating,2,HS,Business Owner,89,Daily,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+21,0,5.113810398832299,Friendship,1,BSc,Entrepreneur,42,Monthly,0.0,1.0,1.0,0.0,0.0,0.0,1.0
+33,0,5.225140383508275,Casual Dating,1,HS,Doctor,55,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+27,1,5.101953572238962,Casual Dating,1,BSc,Social Media Influencer,2,Weekly,1.0,0.0,1.0,0.0,0.0,0.0,1.0
+28,0,5.173154487049304,Marriage,2,BSc,Business Owner,25,Weekly,0.0,1.0,1.0,1.0,1.0,0.0,0.0
+33,1,5.686838508259666,Casual Dating,1,HS,Social Media Influencer,92,Daily,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+35,0,6.003969467217214,Casual Dating,0,PhD,Social Media Influencer,41,Daily,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+20,1,4.900674866948732,Casual Dating,2,BSc,Social Media Influencer,91,Weekly,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+29,0,4.988495709151781,Marriage,0,BSc,Teacher,12,Daily,0.0,1.0,0.0,0.0,1.0,1.0,1.0
+18,0,4.892994276022338,Casual Dating,0,BSc,Doctor,31,Weekly,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+25,0,5.767008434109128,Casual Dating,2,MSc,Business Owner,88,Daily,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+18,0,5.512904350653029,Casual Dating,1,HS,Social Media Influencer,67,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+20,1,6.0304019547960905,Casual Dating,2,HS,Engineer,19,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+22,1,5.3901931893250365,Marriage,0,BSc,Entrepreneur,51,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+31,0,5.627201836755997,Marriage,0,MSc,Artist,51,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+18,1,5.74154266029467,Marriage,2,BSc,Doctor,26,Monthly,1.0,1.0,0.0,1.0,1.0,0.0,1.0
+18,0,4.903840990361152,Long-term Relationship,2,PhD,Business Owner,25,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30,0,5.86932210973125,Long-term Relationship,2,BSc,Business Owner,70,Daily,1.0,1.0,0.0,1.0,0.0,0.0,0.0
+30,0,4.877141147744112,Long-term Relationship,0,HS,Student,84,Monthly,1.0,1.0,1.0,1.0,0.0,0.0,1.0
+32,0,5.02106132447958,Long-term Relationship,0,BSc,Social Media Influencer,7,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+23,0,5.697425284315747,Friendship,0,MSc,Doctor,21,Weekly,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+27,1,5.963055355816916,Casual Dating,0,HS,Social Media Influencer,41,Weekly,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+32,1,5.84455365325489,Long-term Relationship,1,HS,Engineer,2,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+21,0,5.783840347755978,Long-term Relationship,0,BSc,Social Media Influencer,97,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+25,0,4.897640422278836,Long-term Relationship,1,HS,Artist,82,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+27,0,5.573322959829147,Friendship,1,BSc,Teacher,25,Weekly,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+24,1,5.971231391323927,Marriage,1,HS,Artist,12,Monthly,1.0,0.0,0.0,0.0,1.0,1.0,1.0
+23,0,5.224202653918264,Long-term Relationship,0,BSc,Artist,48,Monthly,1.0,1.0,1.0,1.0,0.0,1.0,0.0
+20,1,5.336642021992896,Long-term Relationship,0,BSc,Doctor,21,Weekly,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+25,0,6.063259013267587,Marriage,0,HS,Entrepreneur,55,Daily,1.0,1.0,0.0,0.0,0.0,0.0,1.0
+35,1,5.3713299622778425,Long-term Relationship,0,HS,Artist,40,Daily,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+30,1,5.529612882527528,Casual Dating,0,BSc,Doctor,34,Daily,1.0,0.0,1.0,1.0,0.0,1.0,0.0
+27,0,5.870307747442626,Casual Dating,1,PhD,Artist,77,Monthly,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+32,0,5.56838148548119,Friendship,0,HS,Student,6,Monthly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+31,0,5.985359614691633,Long-term Relationship,1,BSc,Business Owner,30,Weekly,1.0,1.0,1.0,1.0,1.0,0.0,1.0
+35,0,5.8548070671875205,Long-term Relationship,1,HS,Business Owner,56,Daily,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+27,1,5.829784745371135,Long-term Relationship,0,PhD,Teacher,65,Daily,1.0,1.0,0.0,0.0,0.0,1.0,1.0
+24,1,5.601257243284415,Marriage,2,MSc,Artist,37,Monthly,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+35,0,5.825348580823322,Long-term Relationship,0,HS,Social Media Influencer,44,Monthly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+24,1,5.871606630120891,Marriage,0,MSc,Business Owner,89,Daily,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+27,0,6.008427747410113,Marriage,1,HS,Artist,54,Monthly,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+35,1,4.956751259497957,Casual Dating,1,BSc,Social Media Influencer,89,Daily,1.0,0.0,1.0,1.0,1.0,1.0,0.0
+33,0,5.104414354779417,Friendship,0,BSc,Social Media Influencer,38,Daily,1.0,0.0,1.0,0.0,0.0,1.0,1.0
+33,1,5.738179236631131,Friendship,2,BSc,Entrepreneur,98,Daily,1.0,0.0,0.0,1.0,0.0,1.0,1.0
+23,0,5.862896499613324,Long-term Relationship,1,PhD,Engineer,81,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+19,1,4.858694354541918,Friendship,2,PhD,Artist,79,Weekly,0.0,0.0,1.0,0.0,1.0,1.0,1.0
+18,1,5.076509496912218,Casual Dating,2,MSc,Entrepreneur,39,Weekly,0.0,0.0,1.0,0.0,1.0,1.0,0.0
+18,1,4.9689545959233055,Casual Dating,0,BSc,Engineer,3,Monthly,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+29,0,4.879531000242824,Marriage,0,BSc,Business Owner,56,Daily,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+28,1,5.432579803560374,Casual Dating,2,HS,Artist,39,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,0,5.642158651806679,Marriage,2,PhD,Student,69,Monthly,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+23,1,5.878152373160889,Long-term Relationship,1,PhD,Doctor,0,Daily,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+20,1,5.821051768380995,Long-term Relationship,1,HS,Engineer,36,Daily,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+23,1,5.424539268487437,Marriage,2,BSc,Entrepreneur,52,Weekly,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+19,0,5.732838835274594,Long-term Relationship,0,MSc,Engineer,16,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+24,0,5.546477303149657,Long-term Relationship,0,PhD,Artist,82,Daily,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+34,0,5.956946699549064,Marriage,1,PhD,Entrepreneur,7,Daily,1.0,1.0,1.0,1.0,0.0,1.0,1.0
+33,1,5.234862313696753,Long-term Relationship,2,HS,Entrepreneur,89,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,1,5.150731819668575,Friendship,2,HS,Engineer,44,Monthly,0.0,0.0,1.0,1.0,1.0,1.0,1.0
+19,0,5.858339495073263,Friendship,1,HS,Artist,11,Weekly,1.0,1.0,1.0,0.0,0.0,1.0,1.0
+21,0,5.971714431996626,Casual Dating,2,BSc,Artist,55,Weekly,0.0,1.0,1.0,0.0,1.0,1.0,1.0
+35,1,4.941351112698954,Friendship,2,MSc,Doctor,70,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+26,1,5.654386029601784,Casual Dating,0,PhD,Teacher,79,Monthly,0.0,1.0,1.0,1.0,0.0,0.0,0.0
+34,0,5.714071886037004,Long-term Relationship,1,PhD,Engineer,1,Monthly,0.0,1.0,1.0,1.0,1.0,1.0,1.0
+35,1,5.322984522319579,Casual Dating,2,HS,Engineer,30,Weekly,1.0,0.0,0.0,1.0,1.0,1.0,1.0
+21,0,5.4661559596268665,Long-term Relationship,1,MSc,Business Owner,15,Monthly,0.0,0.0,0.0,0.0,1.0,1.0,1.0
+33,0,5.222649844514536,Casual Dating,0,MSc,Business Owner,1,Daily,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+29,1,4.874899929163616,Friendship,1,MSc,Engineer,37,Weekly,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+20,1,4.911462817990523,Long-term Relationship,0,HS,Engineer,12,Weekly,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+29,1,5.840746477501855,Long-term Relationship,2,BSc,Artist,60,Weekly,0.0,0.0,1.0,1.0,1.0,1.0,0.0
+28,1,5.294918781671663,Marriage,2,HS,Doctor,90,Weekly,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+18,1,5.822459192851687,Friendship,2,PhD,Doctor,77,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+29,1,5.414860111283044,Long-term Relationship,1,MSc,Engineer,14,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+19,1,5.238033243001804,Casual Dating,0,MSc,Business Owner,56,Monthly,1.0,1.0,1.0,1.0,1.0,1.0,0.0
+35,1,5.056984588417015,Long-term Relationship,0,BSc,Social Media Influencer,11,Monthly,1.0,1.0,0.0,0.0,0.0,1.0,0.0
+29,0,5.365452177692091,Casual Dating,2,MSc,Social Media Influencer,63,Daily,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+20,1,5.000708087088841,Friendship,1,HS,Doctor,27,Monthly,0.0,1.0,1.0,1.0,0.0,0.0,1.0
+28,1,6.008930286605319,Casual Dating,0,MSc,Teacher,3,Daily,1.0,0.0,1.0,1.0,1.0,1.0,1.0
+28,0,5.333743555369965,Marriage,2,BSc,Entrepreneur,45,Daily,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+25,0,4.878404804605666,Marriage,0,PhD,Entrepreneur,75,Monthly,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+32,1,5.94495993720775,Casual Dating,0,PhD,Business Owner,35,Monthly,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+24,1,4.856959563519744,Friendship,1,BSc,Artist,94,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+35,0,5.693979760229115,Casual Dating,1,HS,Social Media Influencer,98,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+33,0,5.554938815660047,Casual Dating,2,BSc,Doctor,30,Weekly,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+30,1,5.250454331673748,Friendship,1,BSc,Teacher,56,Weekly,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+32,1,5.66066075475548,Casual Dating,2,MSc,Social Media Influencer,47,Daily,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+33,1,5.920030515983333,Long-term Relationship,0,HS,Engineer,89,Monthly,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+34,0,5.448385544713751,Marriage,2,PhD,Student,3,Daily,1.0,1.0,1.0,0.0,1.0,1.0,1.0
+18,0,5.835959520330714,Marriage,2,MSc,Business Owner,96,Daily,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+34,0,5.073670132120792,Long-term Relationship,2,BSc,Social Media Influencer,12,Daily,0.0,1.0,0.0,0.0,0.0,1.0,1.0
+27,0,5.31668523215316,Marriage,0,BSc,Entrepreneur,92,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+30,1,5.070365365403131,Marriage,0,HS,Social Media Influencer,65,Daily,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+33,0,4.871726575561797,Marriage,0,BSc,Engineer,93,Daily,0.0,1.0,1.0,0.0,1.0,1.0,0.0
+32,0,5.647436260972559,Marriage,2,HS,Business Owner,71,Monthly,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+24,0,5.651540591506323,Friendship,2,PhD,Doctor,77,Monthly,,,,,,,
