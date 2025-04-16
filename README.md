@@ -1,4 +1,4 @@
-# Project of Data Visualization (COM-480)
+# LoveLogic (Project of Data Visualization (COM-480))
 
 | Student's name | SCIPER |
 | -------------- | ------ |
@@ -7,6 +7,9 @@
 |Yassine Chami Khazraji |326806 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
+
+[Go to website](https://love-logic-raniahtr-ranias-projects-cea5148e.vercel.app)
+
 
 ## Milestone 1 (21st March, 5pm)
 
