@@ -20,8 +20,7 @@ const Home: React.FC = () => {
             </span>
           </h1>
           <p className="text-xl text-gray-600 mb-12">
-            Dive into fascinating statistics about dating app behavior and discover the patterns
-            that shape modern relationships.
+          Think you’ve figured out dating apps? Let the data tell you what’s really going on...
           </p>
 
           {/* CTA Buttons */}
@@ -30,7 +29,7 @@ const Home: React.FC = () => {
               to="/dashboard"
               className="inline-block bg-purple-600 text-white px-8 py-3 rounded-lg font-medium hover:bg-purple-700 transition-colors"
             >
-              Explore Data Story
+              Discover
             </Link>
             <Link
               to="/swipe-game"

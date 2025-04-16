@@ -12,14 +12,14 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   // Navigation items with their paths and labels
   const navItems = [
     { path: '/', label: 'Home' },
-    { path: '/dashboard', label: 'Data Story' },
+    { path: '/dashboard', label: 'App Trends' },
     { path: '/swipe-game', label: 'Swipe Game' },
   ];
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-pink-100 via-purple-50 to-pink-100 flex flex-col">
       {/* Navigation */}
-      <nav className="bg-white/80 backdrop-blur-sm shadow-md fixed w-full z-10">
+      <nav className="bg-white/95 backdrop-blur-sm shadow-md fixed w-full z-10">
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center h-16">
             <Link to="/" className="text-2xl font-bold text-purple-600">
