@@ -14,7 +14,7 @@
 
 LoveLogic is an interactive experience that reveals what really happens on dating apps. From who's swiping to what they're looking for, each part of the site tells a piece of the story. Explore real data through fun and intuitive visuals, and see how people connect in today’s digital world. Ready to challenge what you think you know about modern love?
 
-### 🚧 Current MVP & What's Coming
+## 🚧 Current MVP & What's Coming
 
 The current version of **LoveLogic** includes the following visualizations:
 
@@ -49,5 +49,6 @@ We’re planning to roll out:
 ## Check Milestones
 
 [You can check Milestone 1 here](Milestone1_Viz212.pdf)
+
 [You can check Milestone 2 here](Milestone2_Viz212.pdf)
 
