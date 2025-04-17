@@ -50,5 +50,5 @@ We’re planning to roll out:
 
 [You can check Milestone 1 here](milestones/Milestone1_Viz212.pdf)
 
-[You can check Milestone 2 here](milestones/Milestone2_Viz212.pdf)
+[You can check Milestone 2 here](milestones/Milestone2_Viz212-2.pdf)
 
