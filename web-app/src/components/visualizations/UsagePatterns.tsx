@@ -1,20 +1,30 @@
 import React from 'react';
 import { ResponsiveBar } from '@nivo/bar';
 import { motion } from 'framer-motion';
-import { useDataset, getUsagePatterns } from '../../utils/data';
+import { useAggregates } from '../../utils/data';
 import LoadingSpinner from '../LoadingSpinner';
 
+// Helper to format usage patterns from aggregates
+const usagePatternsArray = (aggregates: any) =>
+  aggregates && aggregates.usage_patterns
+    ? Object.entries(aggregates.usage_patterns).map(([frequency, stats]: [string, any]) => ({
+        frequency,
+        avgSwipes: Number(stats.avgSwipes),
+        count: Number(stats.count),
+        byGender: stats.byGender || { male: 0, female: 0 }
+      }))
+    : [];
+
 const UsagePatterns: React.FC = () => {
-  const { data, loading, error } = useDataset();
-  
-  if (loading) return <LoadingSpinner />;
-  if (error) return <div className="text-red-500">Error loading data: {error}</div>;
-  
-  const rawData = getUsagePatterns(data);
+  const { aggregates, loading, error } = useAggregates();
+  const rawData = usagePatternsArray(aggregates);
   const chartData = rawData.map(({ frequency, avgSwipes }) => ({
     frequency,
     avgSwipes: Math.round(avgSwipes * 10) / 10 // Round to 1 decimal place
   }));
+
+  if (loading) return <LoadingSpinner />;
+  if (error) return <div className="text-red-500">Error loading data: {error}</div>;
 
   return (
     <motion.div

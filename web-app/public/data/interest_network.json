@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "id": "cooking",
+      "value": 290
+    },
+    {
+      "id": "hiking",
+      "value": 285
+    },
+    {
+      "id": "movies",
+      "value": 278
+    },
+    {
+      "id": "music",
+      "value": 292
+    },
+    {
+      "id": "reading",
+      "value": 288
+    },
+    {
+      "id": "sports",
+      "value": 291
+    },
+    {
+      "id": "travel",
+      "value": 314
+    }
+  ],
+  "links": [
+    {
+      "source": "cooking",
+      "target": "hiking",
+      "value": 196
+    },
+    {
+      "source": "cooking",
+      "target": "movies",
+      "value": 188
+    },
+    {
+      "source": "cooking",
+      "target": "music",
+      "value": 198
+    },
+    {
+      "source": "cooking",
+      "target": "reading",
+      "value": 193
+    },
+    {
+      "source": "cooking",
+      "target": "sports",
+      "value": 190
+    },
+    {
+      "source": "cooking",
+      "target": "travel",
+      "value": 211
+    },
+    {
+      "source": "hiking",
+      "target": "movies",
+      "value": 186
+    },
+    {
+      "source": "hiking",
+      "target": "music",
+      "value": 202
+    },
+    {
+      "source": "hiking",
+      "target": "reading",
+      "value": 195
+    },
+    {
+      "source": "hiking",
+      "target": "sports",
+      "value": 189
+    },
+    {
+      "source": "hiking",
+      "target": "travel",
+      "value": 210
+    },
+    {
+      "source": "movies",
+      "target": "music",
+      "value": 192
+    },
+    {
+      "source": "movies",
+      "target": "reading",
+      "value": 193
+    },
+    {
+      "source": "movies",
+      "target": "sports",
+      "value": 184
+    },
+    {
+      "source": "movies",
+      "target": "travel",
+      "value": 206
+    },
+    {
+      "source": "music",
+      "target": "reading",
+      "value": 190
+    },
+    {
+      "source": "music",
+      "target": "sports",
+      "value": 193
+    },
+    {
+      "source": "music",
+      "target": "travel",
+      "value": 206
+    },
+    {
+      "source": "reading",
+      "target": "sports",
+      "value": 199
+    },
+    {
+      "source": "reading",
+      "target": "travel",
+      "value": 214
+    },
+    {
+      "source": "sports",
+      "target": "travel",
+      "value": 202
+    }
+  ]
+}

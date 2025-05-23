@@ -1,0 +1,44 @@
+{
+  "age_distribution": {
+    "18-22": 116,
+    "23-27": 146,
+    "28-32": 143,
+    "33-35": 95
+  },
+  "gender_counts": {
+    "0": 251,
+    "1": 249
+  },
+  "relationship_goals": {
+    "Casual Dating": 137,
+    "Long-term Relationship": 137,
+    "Friendship": 114,
+    "Marriage": 112
+  },
+  "usage_patterns": {
+    "Weekly": {
+      "avgSwipes": 48.517857142857146,
+      "count": 168,
+      "byGender": {
+        "male": 0,
+        "female": 0
+      }
+    },
+    "Monthly": {
+      "avgSwipes": 50.846666666666664,
+      "count": 150,
+      "byGender": {
+        "male": 0,
+        "female": 0
+      }
+    },
+    "Daily": {
+      "avgSwipes": 52.37362637362637,
+      "count": 182,
+      "byGender": {
+        "male": 0,
+        "female": 0
+      }
+    }
+  }
+}

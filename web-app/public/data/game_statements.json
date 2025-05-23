@@ -1,0 +1,17 @@
+[
+  {
+    "statement": "What is the most common relationship goal among users?",
+    "answer": "Casual Dating",
+    "explanation": "The most common relationship goal is Casual Dating with 137 users."
+  },
+  {
+    "statement": "Which age group has the highest number of users?",
+    "answer": "23-27",
+    "explanation": "The age group 23-27 has the highest number of users: 146."
+  },
+  {
+    "statement": "What percentage of users are female?",
+    "answer": 0.0,
+    "explanation": "0.0% of users are female."
+  }
+]

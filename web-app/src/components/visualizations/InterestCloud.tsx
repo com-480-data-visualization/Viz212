@@ -1,17 +1,26 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { useDataset, getInterestDistribution } from '../../utils/data';
+import { useAggregates } from '../../utils/data';
 import LoadingSpinner from '../LoadingSpinner';
 
+// Helper to format interests distribution from aggregates
+const interestDistributionArray = (aggregates: any) =>
+  aggregates && aggregates.interest_distribution
+    ? Object.entries(aggregates.interest_distribution).map(([interest, stats]: [string, any]) => ({
+        interest,
+        count: Number(stats.count),
+        byGender: stats.byGender || { male: 0, female: 0 }
+      }))
+    : [];
+
 const InterestCloud: React.FC = () => {
-  const { data, loading, error } = useDataset();
+  const { aggregates, loading, error } = useAggregates();
   const [selectedInterest, setSelectedInterest] = useState<string | null>(null);
-  
+  const interestsData = interestDistributionArray(aggregates);
+  const maxCount = interestsData.length > 0 ? Math.max(...interestsData.map(d => d.count)) : 1;
+
   if (loading) return <LoadingSpinner />;
   if (error) return <div className="text-red-500">Error loading data: {error}</div>;
-  
-  const interestsData = getInterestDistribution(data);
-  const maxCount = Math.max(...interestsData.map(d => d.count));
 
   return (
     <motion.div
@@ -25,7 +34,6 @@ const InterestCloud: React.FC = () => {
         {interestsData.map(({ interest, count, byGender }) => {
           const fontSize = 14 + (count / maxCount) * 24; // Scale font size between 14px and 38px
           const opacity = 0.5 + (count / maxCount) * 0.5; // Scale opacity between 0.5 and 1
-          
           return (
             <motion.div
               key={interest}

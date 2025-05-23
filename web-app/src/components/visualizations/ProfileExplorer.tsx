@@ -3,6 +3,18 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useDataset } from '../../utils/data';
 import LoadingSpinner from '../LoadingSpinner';
 
+// List of possible interests (should match your dataset)
+const INTERESTS = ['cooking', 'hiking', 'movies', 'music', 'reading', 'sports', 'travel'];
+
+// Helper to reconstruct interests array from one-hot columns
+function getUserInterests(user: any) {
+  return INTERESTS.filter(interest => user[interest] === 1 || user[interest] === 1.0);
+}
+// Helper to map gender from 0/1 to string
+function getUserGender(user: any) {
+  return user.Gender === 0 ? 'Male' : 'Female';
+}
+
 const ProfileExplorer: React.FC = () => {
   const { data, loading, error } = useDataset();
   const [currentProfile, setCurrentProfile] = useState(0);
@@ -13,27 +25,24 @@ const ProfileExplorer: React.FC = () => {
 
   const filteredData = data.filter(profile => {
     if (selectedFilter === 'all') return true;
-    if (selectedFilter === 'male') return profile.gender === 'Male';
-    if (selectedFilter === 'female') return profile.gender === 'Female';
-    return profile.relationship_goal === selectedFilter;
+    if (selectedFilter === 'male') return getUserGender(profile) === 'Male';
+    if (selectedFilter === 'female') return getUserGender(profile) === 'Female';
+    return profile['looking_for'] === selectedFilter;
   });
 
   const currentUser = filteredData[currentProfile % filteredData.length];
 
   // Generate a consistent avatar based on user properties
   const getAvatarUrl = (user: any) => {
-    const seed = `${user.gender}-${user.age}-${user.occupation}`;
-    
+    const seed = `${getUserGender(user)}-${user.age}-${user.occupation}`;
     // Both genders use the same style for consistency, but with different options
     const style = 'adventurer-neutral';
-    
     // Common options
     const commonOptions = [
       'backgroundColor=b6e3f4',
     ];
-
     // Gender-specific options
-    const genderOptions = user.gender === 'Female' ? [
+    const genderOptions = getUserGender(user) === 'Female' ? [
       'hair=long01,long02,long03,long04,long05,long06,long07,long08,long09,long10,long11,long12,long13,long14,long15,long16,long17,long18,long19,long20',
       'hairColor=0e0e0e,6a4e35,a55728,c93305,cb6820,911f27,e8e8e8,b9b9b9,9a9a9a,697a96,4a5568,8d5524',
       'accessoriesProbability=20',
@@ -44,7 +53,6 @@ const ProfileExplorer: React.FC = () => {
       'accessoriesProbability=30',
       'accessories=glasses,glasses02,glasses03,glasses04,glasses05',
     ];
-
     const allOptions = [...commonOptions, ...genderOptions].join('&');
     return `https://api.dicebear.com/7.x/${style}/svg?seed=${encodeURIComponent(seed)}&${allOptions}`;
   };
@@ -95,12 +103,12 @@ const ProfileExplorer: React.FC = () => {
                     />
                   </div>
                   <div>
-                    <h3 className="text-xl font-semibold">{currentUser.gender}, {currentUser.age}</h3>
+                    <h3 className="text-xl font-semibold">{getUserGender(currentUser)}, {currentUser.age}</h3>
                     <p className="text-gray-600">{currentUser.occupation}</p>
                   </div>
                 </div>
                 <div className="text-sm text-gray-500">
-                  {currentUser.relationship_goal}
+                  {currentUser['looking_for']}
                 </div>
               </div>
 
@@ -108,7 +116,7 @@ const ProfileExplorer: React.FC = () => {
               <div>
                 <h4 className="font-medium mb-2">Interests</h4>
                 <div className="flex flex-wrap gap-2">
-                  {currentUser.interests.map((interest, index) => (
+                  {getUserInterests(currentUser).map((interest, index) => (
                     <span 
                       key={index}
                       className="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-sm"
@@ -124,8 +132,8 @@ const ProfileExplorer: React.FC = () => {
                 <h4 className="font-medium mb-2">App Usage</h4>
                 <div className="grid grid-cols-2 gap-8">
                   <div>
-                    <p className="text-sm text-gray-600">Swipes per session</p>
-                    <p className="text-lg font-semibold">{currentUser.swipes_per_session}</p>
+                    <p className="text-sm text-gray-600">Swiping history</p>
+                    <p className="text-lg font-semibold">{currentUser.swiping_history}</p>
                   </div>
                   <div>
                     <p className="text-sm text-gray-600">Usage frequency</p>

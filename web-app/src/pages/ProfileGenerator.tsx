@@ -9,6 +9,15 @@ const INTERESTS = ['cooking', 'hiking', 'movies', 'music', 'reading', 'sports', 
 const GOALS = ['Casual Dating', 'Friendship', 'Long-term Relationship', 'Marriage'];
 const GENDERS = ['Male', 'Female'];
 
+// Helper to reconstruct interests array from one-hot columns
+function getUserInterests(user: any) {
+  return INTERESTS.filter(interest => user[interest] === 1 || user[interest] === 1.0);
+}
+// Helper to map gender from 0/1 to string
+function getUserGender(user: any) {
+  return user.Gender === 0 ? 'Male' : 'Female';
+}
+
 const ProfileGenerator: React.FC = () => {
   // State for the fictional profile
   const [age, setAge] = useState(27);
@@ -28,15 +37,14 @@ const ProfileGenerator: React.FC = () => {
   const handleGenerate = (e: React.FormEvent) => {
     e.preventDefault();
     if (!data.length) return;
-    // Save profile to context for cross-section use
     setProfile({ age, gender, interests, goal });
     // --- Fuzzy matches: match on at least 3/4 attributes ---
     const fuzzyMatches = data.filter(u => {
       let score = 0;
-      if (u.gender === gender) score++;
-      if (u.relationship_goal === goal) score++;
+      if (getUserGender(u) === gender) score++;
+      if (u['looking_for'] === goal) score++;
       if (Math.abs(u.age - age) <= 2) score++;
-      if (u.interests.some(i => interests.includes(i))) score++;
+      if (getUserInterests(u).some(i => interests.includes(i))) score++;
       return score >= 3;
     });
     setFuzzyPercentile(Math.round((fuzzyMatches.length / data.length) * 100));
@@ -47,14 +55,14 @@ const ProfileGenerator: React.FC = () => {
     const ageMatch = data.filter(u => Math.abs(u.age - age) <= 2).length;
     attrStats.push({label: `Age ${age}±2`, percent: Math.round((ageMatch / data.length) * 100)});
     // Gender
-    const genderMatch = data.filter(u => u.gender === gender).length;
+    const genderMatch = data.filter(u => getUserGender(u) === gender).length;
     attrStats.push({label: gender, percent: Math.round((genderMatch / data.length) * 100)});
     // Goal
-    const goalMatch = data.filter(u => u.relationship_goal === goal).length;
+    const goalMatch = data.filter(u => u['looking_for'] === goal).length;
     attrStats.push({label: goal, percent: Math.round((goalMatch / data.length) * 100)});
     // Each selected interest
     interests.forEach(interest => {
-      const interestMatch = data.filter(u => u.interests.includes(interest)).length;
+      const interestMatch = data.filter(u => getUserInterests(u).includes(interest)).length;
       attrStats.push({label: interest, percent: Math.round((interestMatch / data.length) * 100)});
     });
     setAttributeMatches(attrStats);
@@ -62,7 +70,7 @@ const ProfileGenerator: React.FC = () => {
     // --- Common interests among fuzzy matches ---
     const interestCounts: { [key: string]: number } = {};
     fuzzyMatches.forEach(u => {
-      u.interests.forEach(i => {
+      getUserInterests(u).forEach(i => {
         if (!interests.includes(i)) {
           interestCounts[i] = (interestCounts[i] || 0) + 1;
         }

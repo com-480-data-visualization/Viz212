@@ -1,21 +1,20 @@
 import React from 'react';
 import { ResponsivePie } from '@nivo/pie';
 import { motion } from 'framer-motion';
-import { useDataset, getRelationshipGoals } from '../../utils/data';
+import { useAggregates, relationshipGoalsArray } from '../../utils/data';
 import LoadingSpinner from '../LoadingSpinner';
 
 const RelationshipGoals: React.FC = () => {
-  const { data, loading, error } = useDataset();
-  
-  if (loading) return <LoadingSpinner />;
-  if (error) return <div className="text-red-500">Error loading data: {error}</div>;
-  
-  const goalsData = getRelationshipGoals(data);
+  const { aggregates, loading, error } = useAggregates();
+  const goalsData = relationshipGoalsArray(aggregates);
   const pieData = goalsData.map(({ goal, count }) => ({
     id: goal,
     label: goal,
-    value: count
+    value: Number(count)
   }));
+
+  if (loading) return <LoadingSpinner />;
+  if (error) return <div className="text-red-500">Error loading data: {error}</div>;
 
   return (
     <motion.div
@@ -64,16 +63,6 @@ const RelationshipGoals: React.FC = () => {
       </div>
       <div className="mt-4 text-sm text-gray-600">
         <p>Distribution of users' relationship goals on the platform.</p>
-        <div className="mt-2 grid grid-cols-2 gap-4">
-          {goalsData.map(({ goal, byGender }) => (
-            <div key={goal} className="flex justify-between items-center">
-              <span className="font-medium">{goal}:</span>
-              <span>
-                M: {byGender.male} | F: {byGender.female}
-              </span>
-            </div>
-          ))}
-        </div>
       </div>
     </motion.div>
   );
