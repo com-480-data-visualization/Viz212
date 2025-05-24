@@ -12,7 +12,7 @@ function getUserInterests(user: any) {
 }
 // Helper to map gender from 0/1 to string
 function getUserGender(user: any) {
-  return user.Gender === 0 ? 'Male' : 'Female';
+  return user.gender === 0 ? 'Male' : 'Female';
 }
 
 const ProfileExplorer: React.FC = () => {

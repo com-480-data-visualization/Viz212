@@ -84,7 +84,7 @@ const InterestNetwork: React.FC = () => {
       </div>
       <div className="mt-6 text-gray-700 text-base">
         <p>
-          This network visualizes how users' interests are interconnected. Each node represents a popular interest, and links indicate how many users share both interests. The closer and thicker the link, the more users have both interests in common. Explore the network to discover which hobbies and activities tend to cluster together in the dating app community!
+          This network visualizes how users' interests are interconnected. Each node represents a popular interest, and links indicate how many users share both interests.
         </p>
       </div>
       {selectedInterest && (

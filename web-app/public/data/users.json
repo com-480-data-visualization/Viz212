@@ -15,8 +15,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 27,
@@ -34,8 +33,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -53,8 +51,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -72,8 +69,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -91,8 +87,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -110,8 +105,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -129,8 +123,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -148,8 +141,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -167,8 +159,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -186,8 +177,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 27,
@@ -205,8 +195,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -224,8 +213,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -243,8 +231,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -262,8 +249,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -281,8 +267,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -300,8 +285,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 27,
@@ -319,8 +303,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -338,8 +321,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -357,8 +339,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -376,8 +357,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -395,8 +375,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -414,8 +393,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -433,8 +411,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -452,8 +429,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -471,8 +447,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -490,8 +465,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -509,8 +483,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -528,8 +501,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -547,8 +519,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -566,8 +537,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -585,8 +555,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -604,8 +573,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -623,8 +591,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 21,
@@ -642,8 +609,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -661,8 +627,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -680,8 +645,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -699,8 +663,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -718,8 +681,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -737,8 +699,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -756,8 +717,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -775,8 +735,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 35,
@@ -794,8 +753,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -813,8 +771,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -832,8 +789,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -851,8 +807,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -870,8 +825,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -889,8 +843,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -908,8 +861,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -927,8 +879,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -946,8 +897,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -965,8 +915,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -984,8 +933,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 18,
@@ -1003,8 +951,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -1022,8 +969,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -1041,8 +987,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -1060,8 +1005,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -1079,8 +1023,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -1098,8 +1041,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -1117,8 +1059,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -1136,8 +1077,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -1155,8 +1095,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -1174,8 +1113,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 21,
@@ -1193,8 +1131,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -1212,8 +1149,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -1231,8 +1167,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -1250,8 +1185,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -1269,8 +1203,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -1288,8 +1221,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -1307,8 +1239,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -1326,8 +1257,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -1345,8 +1275,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -1364,8 +1293,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -1383,8 +1311,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -1402,8 +1329,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -1421,8 +1347,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -1440,8 +1365,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 35,
@@ -1459,8 +1383,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -1478,8 +1401,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -1497,8 +1419,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -1516,8 +1437,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -1535,8 +1455,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -1554,8 +1473,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -1573,8 +1491,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -1592,8 +1509,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -1611,8 +1527,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -1630,8 +1545,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -1649,8 +1563,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -1668,8 +1581,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -1687,8 +1599,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -1706,8 +1617,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -1725,8 +1635,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -1744,8 +1653,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -1763,8 +1671,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -1782,8 +1689,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -1801,8 +1707,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -1820,8 +1725,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -1839,8 +1743,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -1858,8 +1761,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -1877,8 +1779,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 21,
@@ -1896,8 +1797,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -1915,8 +1815,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -1934,8 +1833,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -1953,8 +1851,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -1972,8 +1869,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -1991,8 +1887,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -2010,8 +1905,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -2029,8 +1923,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -2048,8 +1941,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -2067,8 +1959,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -2086,8 +1977,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -2105,8 +1995,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -2124,8 +2013,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -2143,8 +2031,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -2162,8 +2049,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -2181,8 +2067,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -2200,8 +2085,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -2219,8 +2103,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -2238,8 +2121,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -2257,8 +2139,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -2276,8 +2157,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -2295,8 +2175,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -2314,8 +2193,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -2333,8 +2211,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -2352,8 +2229,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -2371,8 +2247,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -2390,8 +2265,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -2409,8 +2283,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -2428,8 +2301,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -2447,8 +2319,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -2466,8 +2337,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -2485,8 +2355,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -2504,8 +2373,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -2523,8 +2391,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -2542,8 +2409,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -2561,8 +2427,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -2580,8 +2445,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -2599,8 +2463,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -2618,8 +2481,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -2637,8 +2499,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -2656,8 +2517,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -2675,8 +2535,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -2694,8 +2553,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -2713,8 +2571,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -2732,8 +2589,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -2751,8 +2607,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -2770,8 +2625,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -2789,8 +2643,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -2808,8 +2661,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -2827,8 +2679,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -2846,8 +2697,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -2865,8 +2715,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -2884,8 +2733,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -2903,8 +2751,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -2922,8 +2769,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -2941,8 +2787,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -2960,8 +2805,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -2979,8 +2823,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -2998,8 +2841,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -3017,8 +2859,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -3036,8 +2877,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -3055,8 +2895,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -3074,8 +2913,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -3093,8 +2931,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -3112,8 +2949,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -3131,8 +2967,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -3150,8 +2985,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -3169,8 +3003,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -3188,8 +3021,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 18,
@@ -3207,8 +3039,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -3226,8 +3057,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -3245,8 +3075,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -3264,8 +3093,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -3283,8 +3111,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 21,
@@ -3302,8 +3129,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -3321,8 +3147,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -3340,8 +3165,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -3359,8 +3183,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -3378,8 +3201,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -3397,8 +3219,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -3416,8 +3237,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -3435,8 +3255,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -3454,8 +3273,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -3473,8 +3291,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -3492,8 +3309,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -3511,8 +3327,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -3530,8 +3345,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -3549,8 +3363,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -3568,8 +3381,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -3587,8 +3399,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -3606,8 +3417,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 21,
@@ -3625,8 +3435,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -3644,8 +3453,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -3663,8 +3471,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -3682,8 +3489,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -3701,8 +3507,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -3720,8 +3525,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -3739,8 +3543,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -3758,8 +3561,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -3777,8 +3579,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -3796,8 +3597,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -3815,8 +3615,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -3834,8 +3633,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -3853,8 +3651,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -3872,8 +3669,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -3891,8 +3687,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -3910,8 +3705,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -3929,8 +3723,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -3948,8 +3741,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -3967,8 +3759,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -3986,8 +3777,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -4005,8 +3795,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -4024,8 +3813,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -4043,8 +3831,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -4062,8 +3849,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -4081,8 +3867,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -4100,8 +3885,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -4119,8 +3903,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -4138,8 +3921,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -4157,8 +3939,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -4176,8 +3957,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -4195,8 +3975,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -4214,8 +3993,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -4233,8 +4011,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -4252,8 +4029,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -4271,8 +4047,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -4290,8 +4065,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -4309,8 +4083,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -4328,8 +4101,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -4347,8 +4119,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -4366,8 +4137,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -4385,8 +4155,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -4404,8 +4173,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -4423,8 +4191,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -4442,8 +4209,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -4461,8 +4227,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -4480,8 +4245,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -4499,8 +4263,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -4518,8 +4281,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -4537,8 +4299,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -4556,8 +4317,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -4575,8 +4335,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -4594,8 +4353,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -4613,8 +4371,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -4632,8 +4389,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -4651,8 +4407,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -4670,8 +4425,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 27,
@@ -4689,8 +4443,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -4708,8 +4461,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -4727,8 +4479,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -4746,8 +4497,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -4765,8 +4515,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -4784,8 +4533,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -4803,8 +4551,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -4822,8 +4569,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -4841,8 +4587,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -4860,8 +4605,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -4879,8 +4623,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -4898,8 +4641,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -4917,8 +4659,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -4936,8 +4677,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -4955,8 +4695,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -4974,8 +4713,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -4993,8 +4731,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -5012,8 +4749,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -5031,8 +4767,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -5050,8 +4785,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -5069,8 +4803,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -5088,8 +4821,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -5107,8 +4839,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -5126,8 +4857,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -5145,8 +4875,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -5164,8 +4893,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -5183,8 +4911,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -5202,8 +4929,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -5221,8 +4947,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -5240,8 +4965,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -5259,8 +4983,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -5278,8 +5001,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -5297,8 +5019,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -5316,8 +5037,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -5335,8 +5055,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -5354,8 +5073,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -5373,8 +5091,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -5392,8 +5109,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 21,
@@ -5411,8 +5127,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -5430,8 +5145,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -5449,8 +5163,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -5468,8 +5181,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -5487,8 +5199,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -5506,8 +5217,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 22,
@@ -5525,8 +5235,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -5544,8 +5253,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 21,
@@ -5563,8 +5271,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -5582,8 +5289,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -5601,8 +5307,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -5620,8 +5325,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -5639,8 +5343,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 27,
@@ -5658,8 +5361,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -5677,8 +5379,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -5696,8 +5397,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -5715,8 +5415,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -5734,8 +5433,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -5753,8 +5451,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -5772,8 +5469,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -5791,8 +5487,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -5810,8 +5505,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -5829,8 +5523,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -5848,8 +5541,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -5867,8 +5559,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 35,
@@ -5886,8 +5577,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -5905,8 +5595,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -5924,8 +5613,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -5943,8 +5631,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -5962,8 +5649,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -5981,8 +5667,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -6000,8 +5685,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -6019,8 +5703,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -6038,8 +5721,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -6057,8 +5739,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -6076,8 +5757,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -6095,8 +5775,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -6114,8 +5793,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -6133,8 +5811,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -6152,8 +5829,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -6171,8 +5847,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -6190,8 +5865,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -6209,8 +5883,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 18,
@@ -6228,8 +5901,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -6247,8 +5919,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -6266,8 +5937,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -6285,8 +5955,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -6304,8 +5973,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -6323,8 +5991,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -6342,8 +6009,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -6361,8 +6027,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -6380,8 +6045,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -6399,8 +6063,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -6418,8 +6081,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -6437,8 +6099,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -6456,8 +6117,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 31,
@@ -6475,8 +6135,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -6494,8 +6153,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -6513,8 +6171,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -6532,8 +6189,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -6551,8 +6207,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -6570,8 +6225,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -6589,8 +6243,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -6608,8 +6261,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -6627,8 +6279,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -6646,8 +6297,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -6665,8 +6315,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -6684,8 +6333,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 19,
@@ -6703,8 +6351,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 35,
@@ -6722,8 +6369,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -6741,8 +6387,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -6760,8 +6405,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -6779,8 +6423,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -6798,8 +6441,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -6817,8 +6459,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 25,
@@ -6836,8 +6477,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -6855,8 +6495,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -6874,8 +6513,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -6893,8 +6531,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -6912,8 +6549,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -6931,8 +6567,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -6950,8 +6585,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -6969,8 +6603,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -6988,8 +6621,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -7007,8 +6639,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -7026,8 +6657,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -7045,8 +6675,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -7064,8 +6693,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -7083,8 +6711,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -7102,8 +6729,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -7121,8 +6747,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -7140,8 +6765,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 26,
@@ -7159,8 +6783,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -7178,8 +6801,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -7197,8 +6819,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -7216,8 +6837,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -7235,8 +6855,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -7254,8 +6873,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -7273,8 +6891,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -7292,8 +6909,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -7311,8 +6927,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -7330,8 +6945,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -7349,8 +6963,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 18,
@@ -7368,8 +6981,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -7387,8 +6999,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -7406,8 +7017,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -7425,8 +7035,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -7444,8 +7053,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -7463,8 +7071,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -7482,8 +7089,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -7501,8 +7107,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -7520,8 +7125,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -7539,8 +7143,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -7558,8 +7161,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -7577,8 +7179,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -7596,8 +7197,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -7615,8 +7215,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -7634,8 +7233,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -7653,8 +7251,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -7672,8 +7269,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -7691,8 +7287,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -7710,8 +7305,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -7729,8 +7323,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -7748,8 +7341,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -7767,8 +7359,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -7786,8 +7377,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -7805,8 +7395,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -7824,8 +7413,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -7843,8 +7431,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -7862,8 +7449,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -7881,8 +7467,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -7900,8 +7485,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -7919,8 +7503,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 20,
@@ -7938,8 +7521,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 22,
@@ -7957,8 +7539,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -7976,8 +7557,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -7995,8 +7575,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -8014,8 +7593,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -8033,8 +7611,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 30,
@@ -8052,8 +7629,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -8071,8 +7647,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -8090,8 +7665,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -8109,8 +7683,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -8128,8 +7701,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -8147,8 +7719,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -8166,8 +7737,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -8185,8 +7755,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -8204,8 +7773,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -8223,8 +7791,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -8242,8 +7809,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -8261,8 +7827,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -8280,8 +7845,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -8299,8 +7863,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 27,
@@ -8318,8 +7881,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -8337,8 +7899,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 31,
@@ -8356,8 +7917,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -8375,8 +7935,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -8394,8 +7953,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -8413,8 +7971,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 35,
@@ -8432,8 +7989,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -8451,8 +8007,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -8470,8 +8025,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -8489,8 +8043,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -8508,8 +8061,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -8527,8 +8079,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -8546,8 +8097,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -8565,8 +8115,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -8584,8 +8133,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 18,
@@ -8603,8 +8151,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -8622,8 +8169,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -8641,8 +8187,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -8660,8 +8205,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 23,
@@ -8679,8 +8223,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -8698,8 +8241,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 23,
@@ -8717,8 +8259,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -8736,8 +8277,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 24,
@@ -8755,8 +8295,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 34,
@@ -8774,8 +8313,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -8793,8 +8331,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -8812,8 +8349,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -8831,8 +8367,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -8850,8 +8385,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -8869,8 +8403,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 26,
@@ -8888,8 +8421,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "23-27"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -8907,8 +8439,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -8926,8 +8457,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 21,
@@ -8945,8 +8475,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -8964,8 +8493,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -8983,8 +8511,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -9002,8 +8529,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -9021,8 +8547,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 28,
@@ -9040,8 +8565,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -9059,8 +8583,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 29,
@@ -9078,8 +8601,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 19,
@@ -9097,8 +8619,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 35,
@@ -9116,8 +8637,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 29,
@@ -9135,8 +8655,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 20,
@@ -9154,8 +8673,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "18-22"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -9173,8 +8691,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 28,
@@ -9192,8 +8709,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 25,
@@ -9211,8 +8727,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -9230,8 +8745,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 24,
@@ -9249,8 +8763,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 35,
@@ -9268,8 +8781,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -9287,8 +8799,7 @@
     "music": 1.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -9306,8 +8817,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 32,
@@ -9325,8 +8835,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "28-32"
+    "travel": 0.0
   },
   {
     "age": 33,
@@ -9344,8 +8853,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -9363,8 +8871,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 18,
@@ -9382,8 +8889,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 0.0,
-    "travel": 0.0,
-    "age_group": "18-22"
+    "travel": 0.0
   },
   {
     "age": 34,
@@ -9401,8 +8907,7 @@
     "music": 0.0,
     "reading": 0.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "33-35"
+    "travel": 1.0
   },
   {
     "age": 27,
@@ -9420,8 +8925,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "23-27"
+    "travel": 1.0
   },
   {
     "age": 30,
@@ -9439,8 +8943,7 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   },
   {
     "age": 33,
@@ -9458,8 +8961,7 @@
     "music": 0.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 0.0,
-    "age_group": "33-35"
+    "travel": 0.0
   },
   {
     "age": 32,
@@ -9477,7 +8979,6 @@
     "music": 1.0,
     "reading": 1.0,
     "sports": 1.0,
-    "travel": 1.0,
-    "age_group": "28-32"
+    "travel": 1.0
   }
 ]
