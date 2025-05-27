@@ -1,6 +1,5 @@
 # ❤️ LoveLogic -- Project of Data Visualization (COM-480)
 
-Link to the website deployment : https://love-logic.vercel.app
 
 | Student's name | SCIPER |
 | -------------- | ------ |
@@ -9,7 +8,7 @@ Link to the website deployment : https://love-logic.vercel.app
 |Yassine Chami Khazraji |326806 |
 
 
-[Go to website](https://love-logic-raniahtr-ranias-projects-cea5148e.vercel.app)
+[Go to website](https://love-logic.vercel.app)
 
 
 ## About LoveLogic
