@@ -98,3 +98,5 @@ export const ageDistributionArray = (aggregates: any) =>
     : [];
 
 // Add similar helpers for other precomputed aggregates as needed 
+
+const GENDERS = ['male', 'female'];

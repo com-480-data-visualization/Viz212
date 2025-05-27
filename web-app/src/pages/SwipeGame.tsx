@@ -29,7 +29,7 @@ const SwipeGame: React.FC = () => {
 
   // Handle swipe with visual feedback
   const handleSwipe = useCallback((direction: 'left' | 'right') => {
-    if (!currentStatement) return;
+    if (!currentStatement || showExplanation || gameOver) return;
 
     setSwipeDirection(direction);
     const isCorrect = (direction === 'right') === currentStatement.isTrue;
@@ -79,8 +79,8 @@ const SwipeGame: React.FC = () => {
       } else {
         setGameOver(true);
       }
-    }, 2000);
-  }, [currentStatement, data, totalQuestions]);
+    }, 3500);
+  }, [currentStatement, data, totalQuestions, showExplanation, gameOver]);
 
   // Reset game
   const resetGame = useCallback(() => {
@@ -96,14 +96,14 @@ const SwipeGame: React.FC = () => {
   // Handle keyboard events
   useEffect(() => {
     const handleKeyPress = (e: KeyboardEvent) => {
-      if (gameOver) return;
+      if (gameOver || showExplanation) return;
       if (e.key === 'ArrowLeft') handleSwipe('left');
       if (e.key === 'ArrowRight') handleSwipe('right');
     };
 
     window.addEventListener('keydown', handleKeyPress);
     return () => window.removeEventListener('keydown', handleKeyPress);
-  }, [gameOver, handleSwipe]);
+  }, [gameOver, showExplanation, handleSwipe]);
 
   // Handle drag gestures
   const handleDragStart = () => {
@@ -180,7 +180,13 @@ const SwipeGame: React.FC = () => {
                 rotate: cardPosition.x * 0.1,
                 cursor: isDragging ? 'grabbing' : 'grab'
               }}
-              className="max-w-md mx-auto bg-white rounded-xl shadow-xl overflow-hidden"
+              className={`max-w-md mx-auto rounded-xl shadow-xl overflow-hidden transition-colors duration-300
+                bg-white border-4
+                ${showExplanation && swipeDirection && ((swipeDirection === 'right' && currentStatement?.isTrue) || (swipeDirection === 'left' && !currentStatement?.isTrue))
+                  ? 'border-green-400'
+                  : showExplanation && swipeDirection
+                    ? 'border-red-400'
+                    : 'border-white'}`}
             >
               <div className="p-8">
                 {currentStatement && (
@@ -196,33 +202,55 @@ const SwipeGame: React.FC = () => {
                 <div className="flex justify-center gap-4">
                   <button
                     onClick={() => handleSwipe('left')}
+                    disabled={showExplanation || gameOver}
                     className={`px-8 py-3 rounded-full font-medium transition-all transform hover:scale-105
                       ${swipeDirection === 'left' 
                         ? 'bg-red-500 text-white' 
-                        : 'bg-red-100 text-red-600 hover:bg-red-200'}`}
+                        : 'bg-red-100 text-red-600 hover:bg-red-200'}
+                      ${showExplanation || gameOver ? 'opacity-50 cursor-not-allowed' : ''}`}
                   >
                     False
                   </button>
                   <button
                     onClick={() => handleSwipe('right')}
+                    disabled={showExplanation || gameOver}
                     className={`px-8 py-3 rounded-full font-medium transition-all transform hover:scale-105
                       ${swipeDirection === 'right' 
                         ? 'bg-green-500 text-white' 
-                        : 'bg-green-100 text-green-600 hover:bg-green-200'}`}
+                        : 'bg-green-100 text-green-600 hover:bg-green-200'}
+                      ${showExplanation || gameOver ? 'opacity-50 cursor-not-allowed' : ''}`}
                   >
                     True
                   </button>
                 </div>
 
-                {/* Explanation */}
+                {/* Explanation and Result Feedback */}
                 {showExplanation && currentStatement && (
-                  <motion.div
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    className="mt-6 p-4 bg-gray-50 rounded-lg"
-                  >
-                    <p className="text-gray-700">{currentStatement.explanation}</p>
-                  </motion.div>
+                  <>
+                    {/* Enhanced True/False Result */}
+                    <div className="flex justify-center mb-4 mt-6">
+                      {((swipeDirection === 'right' && currentStatement.isTrue) || (swipeDirection === 'left' && !currentStatement.isTrue)) ? (
+                        <div className="flex items-center gap-2 px-6 py-2 bg-green-100 text-green-700 rounded-full text-lg font-bold shadow animate-bounce-in">
+                          <span className="text-2xl">✅</span> Correct!
+                        </div>
+                      ) : (
+                        <div className="flex items-center gap-2 px-6 py-2 bg-red-100 text-red-700 rounded-full text-lg font-bold shadow animate-bounce-in">
+                          <span className="text-2xl">❌</span> Incorrect
+                        </div>
+                      )}
+                    </div>
+                    {/* Explanation */}
+                    <motion.div
+                      initial={{ opacity: 0, y: 20 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      className={`mt-2 p-4 rounded-lg transition-colors duration-300
+                        ${((swipeDirection === 'right' && currentStatement.isTrue) || (swipeDirection === 'left' && !currentStatement.isTrue))
+                          ? 'bg-green-50'
+                          : (swipeDirection ? 'bg-red-50' : 'bg-gray-50')}`}
+                    >
+                      <p className="text-gray-700">{currentStatement.explanation}</p>
+                    </motion.div>
+                  </>
                 )}
               </div>
             </motion.div>

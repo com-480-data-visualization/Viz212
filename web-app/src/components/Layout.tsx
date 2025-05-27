@@ -13,8 +13,8 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   const navItems = [
     { path: '/', label: 'Home' },
     { path: '/dashboard', label: 'App Trends' },
-    { path: '/swipe-game', label: 'Swipe Game' },
     { path: '/profile-generator', label: 'Profile Generator' },
+    { path: '/swipe-game', label: 'Swipe Game' },
   ];
 
   return (

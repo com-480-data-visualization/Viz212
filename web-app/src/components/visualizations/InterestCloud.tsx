@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import { motion } from 'framer-motion';
 
 const COLORS = [
@@ -16,10 +16,16 @@ const BUBBLE_SIZE = 80;
 const CONTAINER_WIDTH = 600;
 const CONTAINER_HEIGHT = 350;
 
+// Helper to get a random number in a range
+const getRandom = (min: number, max: number) => Math.random() * (max - min) + min;
+
 const InterestCloud: React.FC = () => {
   const [data, setData] = useState<string[]>([]);
-  const [positions, setPositions] = useState<{ x: number; y: number }[]>([]);
+  // Each bubble: { x, y, vx, vy }
+  const [bubbles, setBubbles] = useState<{ x: number; y: number; vx: number; vy: number }[]>([]);
+  const rafRef = useRef<number>();
 
+  // Fetch interests and set initial positions/velocities
   useEffect(() => {
     fetch('/data/interests.json')
       .then(response => {
@@ -28,17 +34,65 @@ const InterestCloud: React.FC = () => {
       })
       .then(data => {
         setData(data);
-        // Set initial positions
-        setPositions(
-          data.map((_: string, idx: number) => ({
-            x: 30 + (idx % 5) * (BUBBLE_SIZE + 10),
-            y: 30 + Math.floor(idx / 5) * (BUBBLE_SIZE + 10),
+        setBubbles(
+          data.map((_: string) => ({
+            x: getRandom(0, CONTAINER_WIDTH - BUBBLE_SIZE),
+            y: getRandom(0, CONTAINER_HEIGHT - BUBBLE_SIZE),
+            vx: getRandom(-2, 2),
+            vy: getRandom(-2, 2),
           }))
         );
       });
   }, []);
 
-  if (!data || !Array.isArray(data) || positions.length !== data.length)
+  // Animation loop for bouncing
+  useEffect(() => {
+    if (!bubbles.length) return;
+    const animate = () => {
+      setBubbles(prev =>
+        prev.map(b => {
+          let { x, y, vx, vy } = b;
+          x += vx;
+          y += vy;
+
+          // Bounce off walls
+          if (x <= 0 || x >= CONTAINER_WIDTH - BUBBLE_SIZE) vx *= -1;
+          if (y <= 0 || y >= CONTAINER_HEIGHT - BUBBLE_SIZE) vy *= -1;
+
+          // Clamp to bounds
+          x = Math.max(0, Math.min(x, CONTAINER_WIDTH - BUBBLE_SIZE));
+          y = Math.max(0, Math.min(y, CONTAINER_HEIGHT - BUBBLE_SIZE));
+
+          return { x, y, vx, vy };
+        })
+      );
+      rafRef.current = requestAnimationFrame(animate);
+    };
+    rafRef.current = requestAnimationFrame(animate);
+    return () => {
+      if (rafRef.current) {
+        cancelAnimationFrame(rafRef.current);
+      }
+    };
+  }, [bubbles.length]);
+
+  // Drag handler: update position and give new random velocity
+  const handleDragEnd = (i: number, event: any, info: any) => {
+    let { x, y } = info.point;
+    if (x < 0) x = 0;
+    if (x > CONTAINER_WIDTH - BUBBLE_SIZE) x = CONTAINER_WIDTH - BUBBLE_SIZE;
+    if (y < 0) y = 0;
+    if (y > CONTAINER_HEIGHT - BUBBLE_SIZE) y = CONTAINER_HEIGHT - BUBBLE_SIZE;
+    setBubbles(prev =>
+      prev.map((b, idx) =>
+        idx === i
+          ? { x, y, vx: getRandom(-2, 2), vy: getRandom(-2, 2) }
+          : b
+      )
+    );
+  };
+
+  if (!data || !Array.isArray(data) || bubbles.length !== data.length)
     return <div>Loading interests...</div>;
 
   return (
@@ -68,7 +122,21 @@ const InterestCloud: React.FC = () => {
               bottom: CONTAINER_HEIGHT - BUBBLE_SIZE,
             }}
             dragElastic={0.7}
-            whileTap={{ scale: 1.1 }}
+            whileHover={{
+              scale: 1.08,
+              boxShadow: "0 0 16px 4px rgba(139,92,246,0.3)",
+              zIndex: 2,
+            }}
+            whileTap={{
+              scale: 1.15,
+              boxShadow: "0 0 24px 8px rgba(139,92,246,0.5)",
+              zIndex: 3,
+            }}
+            animate={{
+              x: bubbles[idx].x,
+              y: bubbles[idx].y,
+            }}
+            transition={{ type: 'spring', stiffness: 300, damping: 30 }}
             style={{
               width: BUBBLE_SIZE,
               height: BUBBLE_SIZE,
@@ -78,25 +146,9 @@ const InterestCloud: React.FC = () => {
               boxShadow: '0 2px 8px rgba(0,0,0,0.08)',
               cursor: 'grab',
               position: 'absolute',
-              left: positions[idx].x,
-              top: positions[idx].y,
               userSelect: 'none',
             }}
-            onDragEnd={(_, info) => {
-              let { x, y } = info.point;
-              if (x < 0) x = 0;
-              if (x > CONTAINER_WIDTH - BUBBLE_SIZE) x = CONTAINER_WIDTH - BUBBLE_SIZE;
-              if (y < 0) y = 0;
-              if (y > CONTAINER_HEIGHT - BUBBLE_SIZE) y = CONTAINER_HEIGHT - BUBBLE_SIZE;
-
-              setPositions(pos =>
-                pos.map((p, i) =>
-                  i === idx
-                    ? { x, y }
-                    : p
-                )
-              );
-            }}
+            onDragEnd={(event, info) => handleDragEnd(idx, event, info)}
           >
             {interest}
           </motion.div>

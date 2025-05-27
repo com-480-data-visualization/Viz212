@@ -1,13 +1,22 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useDataset } from '../utils/data';
 import { useUserJourney } from '../context/UserJourneyContext';
-// You can reuse the avatar logic from ProfileExplorer
-// ... import any needed utilities here ...
 
-// List of possible interests (should match your dataset)
+// List of possible interests ( match dataset)
 const INTERESTS = ['cooking', 'hiking', 'movies', 'music', 'reading', 'sports', 'travel'];
 const GOALS = ['Casual Dating', 'Friendship', 'Long-term Relationship', 'Marriage'];
-const GENDERS = ['Male', 'Female'];
+const GENDERS = ['male', 'female'];
+
+// Emoji mapping for interests
+const INTEREST_ICONS: Record<string, string> = {
+  cooking: '🍳',
+  hiking: '🥾',
+  movies: '🎬',
+  music: '🎵',
+  reading: '📚',
+  sports: '🏅',
+  travel: '✈️',
+};
 
 // Helper to reconstruct interests array from one-hot columns
 function getUserInterests(user: any) {
@@ -15,13 +24,28 @@ function getUserInterests(user: any) {
 }
 // Helper to map gender from 0/1 to string
 function getUserGender(user: any) {
-  return user.gender === 0 ? 'Male' : 'Female';
+  return user.gender === 0 ? 'male' : 'female';
 }
+
+// New: Avatar component using randomuser.me
+const ProfileAvatar: React.FC<{ gender: string }> = ({ gender }) => {
+  const [avatarUrl, setAvatarUrl] = useState<string | null>(null);
+
+  useEffect(() => {
+    setAvatarUrl(null); // reset while loading
+    fetch(`https://randomuser.me/api/?gender=${gender}`)
+      .then(res => res.json())
+      .then(data => setAvatarUrl(data.results[0].picture.large));
+  }, [gender]);
+
+  if (!avatarUrl) return <div className="w-32 h-32 bg-gray-200 rounded-full mx-auto mb-4" />;
+  return <img src={avatarUrl} alt="Avatar" className="mx-auto mb-4 w-32 h-32 rounded-full border-4 border-purple-200 shadow-lg" />;
+};
 
 const ProfileGenerator: React.FC = () => {
   // State for the fictional profile
   const [age, setAge] = useState(27);
-  const [gender, setGender] = useState('Female');
+  const [gender, setGender] = useState('female');
   const [interests, setInterests] = useState<string[]>([]);
   const [goal, setGoal] = useState(GOALS[0]);
   const [showResult, setShowResult] = useState(false);
@@ -88,11 +112,13 @@ const ProfileGenerator: React.FC = () => {
     );
   };
 
-  // Avatar URL (reuse logic from ProfileExplorer)
-  const getAvatarUrl = () => {
-    const seed = `${gender}-${age}-${goal}`;
-    const style = 'adventurer-neutral';
-    return `https://api.dicebear.com/7.x/${style}/svg?seed=${encodeURIComponent(seed)}`;
+  // Handle reset for 'Try Another Profile'
+  const handleReset = () => {
+    setAge(27);
+    setGender('female');
+    setInterests([]);
+    setGoal(GOALS[0]);
+    setShowResult(false);
   };
 
   return (
@@ -102,42 +128,67 @@ const ProfileGenerator: React.FC = () => {
         Build a fictional dating profile and see how unique you are! Discover your percentile and what people like you also enjoy.
       </p>
       <form onSubmit={handleGenerate} className="bg-white rounded-xl shadow-lg p-8 w-full max-w-lg mb-8 animate-fade-in">
-        {/* Age */}
-        <label className="block mb-4">
-          <span className="font-medium">Age:</span>
-          <input type="number" min={18} max={35} value={age} onChange={e => setAge(Number(e.target.value))} className="ml-2 border rounded px-2 py-1 w-20" />
-        </label>
-        {/* Gender */}
-        <label className="block mb-4">
-          <span className="font-medium">Gender:</span>
-          <select value={gender} onChange={e => setGender(e.target.value)} className="ml-2 border rounded px-2 py-1">
-            {GENDERS.map(g => <option key={g} value={g}>{g}</option>)}
-          </select>
-        </label>
-        {/* Interests */}
-        <div className="mb-4">
-          <span className="font-medium">Interests:</span>
+        <h2 className="text-2xl font-extrabold text-purple-700 mb-6 text-center drop-shadow">Create Your Profile</h2>
+        {/* Age Section */}
+        <div className="mb-6 pb-4 border-b border-purple-100">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-purple-500 text-xl">🎂</span>
+            <span className="font-semibold text-purple-700 text-lg">Age</span>
+          </div>
+          <label className="block">
+            <input type="number" min={18} max={35} value={age} onChange={e => setAge(Number(e.target.value))} className="border rounded px-2 py-1 w-24 mt-1" />
+          </label>
+        </div>
+        {/* Gender Section */}
+        <div className="mb-6 pb-4 border-b border-purple-100">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-pink-400 text-xl">🚻</span>
+            <span className="font-semibold text-purple-700 text-lg">Gender</span>
+          </div>
+          <label className="block">
+            <select value={gender} onChange={e => setGender(e.target.value)} className="border rounded px-2 py-1 mt-1">
+              {GENDERS.map(g => (
+                <option key={g} value={g}>
+                  {g.charAt(0).toUpperCase() + g.slice(1)}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+        {/* Interests Section */}
+        <div className="mb-6 pb-4 border-b border-purple-100">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-yellow-500 text-xl">✨</span>
+            <span className="font-semibold text-purple-700 text-lg">Interests</span>
+          </div>
           <div className="flex flex-wrap gap-2 mt-2">
             {INTERESTS.map(interest => (
               <button type="button" key={interest} onClick={() => toggleInterest(interest)}
-                className={`px-3 py-1 rounded-full border transition-all ${interests.includes(interest) ? 'bg-blue-400 text-white' : 'bg-gray-100 text-gray-700 hover:bg-blue-100'}`}>{interest}</button>
+                className={`px-3 py-1 rounded-full border transition-all ${interests.includes(interest) ? 'bg-blue-500 text-white shadow-lg scale-105' : 'bg-gray-100 text-gray-700 hover:bg-blue-100'}`}>
+                <span className="mr-1">{INTEREST_ICONS[interest]}</span>{interest}
+              </button>
             ))}
           </div>
         </div>
-        {/* Goal */}
-        <label className="block mb-6">
-          <span className="font-medium">Relationship Goal:</span>
-          <select value={goal} onChange={e => setGoal(e.target.value)} className="ml-2 border rounded px-2 py-1">
-            {GOALS.map(g => <option key={g} value={g}>{g}</option>)}
-          </select>
-        </label>
-        <button type="submit" className="w-full py-3 bg-purple-600 text-white rounded-full font-bold text-lg shadow-lg hover:bg-purple-700 transition-colors animate-bounce">Analyze My Profile</button>
+        {/* Relationship Goal Section */}
+        <div className="mb-8">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-green-500 text-xl">🎯</span>
+            <span className="font-semibold text-purple-700 text-lg">Relationship Goal</span>
+          </div>
+          <label className="block">
+            <select value={goal} onChange={e => setGoal(e.target.value)} className="border rounded px-2 py-1 mt-1">
+              {GOALS.map(g => <option key={g} value={g}>{g}</option>)}
+            </select>
+          </label>
+        </div>
+        <button type="submit" className="w-full py-3 bg-purple-600 text-white rounded-full font-bold text-lg shadow-lg hover:bg-purple-700 transition-colors">Analyze My Profile</button>
       </form>
       {/* Results Section */}
       {showResult && (
         <div className="w-full max-w-lg bg-white rounded-xl shadow-xl p-8 text-center animate-fade-in">
           {/* Animated Avatar */}
-          <img src={getAvatarUrl()} alt="Avatar" className="mx-auto mb-4 w-32 h-32 rounded-full border-4 border-purple-200 shadow-lg animate-pop" />
+          <ProfileAvatar gender={gender.toLowerCase()} />
           {/* Fuzzy Percentile only */}
           <div className="mb-4">
             <span className="text-xl font-bold text-blue-600">{fuzzyPercentile}%</span>
@@ -178,7 +229,7 @@ const ProfileGenerator: React.FC = () => {
             </div>
           </div>
           {/* Try Again Button */}
-          <button onClick={() => setShowResult(false)} className="mt-4 px-6 py-2 bg-blue-500 text-white rounded-full font-medium hover:bg-blue-600 transition-colors">Try Another Profile</button>
+          <button onClick={handleReset} className="mt-4 px-6 py-2 bg-blue-500 text-white rounded-full font-medium hover:bg-blue-600 transition-colors">Try Another Profile</button>
         </div>
       )}
     </div>
