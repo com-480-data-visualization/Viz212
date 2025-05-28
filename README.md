@@ -8,7 +8,7 @@
 |Yassine Chami Khazraji |326806 |
 
 
-[Go to website](https://love-logic-raniahtr-ranias-projects-cea5148e.vercel.app/dashboard)
+[Go to website](https://love-logic-raniahtr-ranias-projects-cea5148e.vercel.app/)
 
 
 ## About LoveLogic
