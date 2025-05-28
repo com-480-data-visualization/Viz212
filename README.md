@@ -67,7 +67,6 @@ Viz212/
 4. **(Optional) Data Processing:**
    - To regenerate or update the data, run the Jupyter notebooks in `data_analysis/` and export the processed JSON files to `web-app/public/data/`.
 
----
 
 For more details on the data pipeline or visualization components, see the relevant sections in this README or the process book.
 
